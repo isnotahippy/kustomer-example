@@ -1,0 +1,1 @@
+../../../Kustomer/Source/Models/KUSChatMessage.h

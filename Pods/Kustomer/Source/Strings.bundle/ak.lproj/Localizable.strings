@@ -1,0 +1,36 @@
+/*
+  Localizable.strings
+  Kustomer
+ 
+  Created by Hunain Shahid on 17/12/2018.
+  Copyright © 2018 Kustomer. All rights reserved.
+ */
+
+"com.kustomer.Just now" = "Seesei ara";
+"com.kustomer.Attachment" = "Nea yԑde reka ho";
+"com.kustomer.Camera" = "adeԑ a yԑde twa mfonin";
+"com.kustomer.Photo Library" = "Mfonin korabea";
+"com.kustomer.Cancel" = "Twam";
+"com.kustomer.Something went wrong. Please try again." = "Biribi ankɔ yie. Mepawo kyew sane yԑ biom.";
+"com.kustomer.Try Again" = "Yԑ biom";
+"com.kustomer.New Conversation" = "Nkɔmmɔ foforɔ";
+"com.kustomer.Don't miss a response! Get notified by email:" = "Nhwere yԑn anoyie! Nya nkratoɔ wɔ email so:";
+"com.kustomer.example@domain.com" = "nhwԑsoɔ@domain.com";
+"com.kustomer.Type a message..." = "Twerԑ biribi...";
+"com.kustomer.Loading..." = "Ɛrekɔ so...";
+"com.kustomer.CLOSED" = "ASI";
+"com.kustomer.Start a New Conversation" = "Hyԑ nkɔmmɔ foforɔ ase";
+"com.kustomer.Thank You! We'll follow up on your request." = "Yԑda wo ase. Yԑbԑdi w’abisadeԑ no akyi.";
+"com.kustomer.CHAT HAS ENDED" = "NKƆMMƆ NO ASI";
+"com.kustomer.END CHAT" = "WIE NKƆMMƆ NO";
+"com.kustomer.Back to chat" = "Toa nkɔmmɔ no so";
+"com.kustomer.Home" = "Efie";
+"com.kustomer.Please select an item" = "Yi biribi";
+"com.kustomer.Leave a message" = "Gya w’ano asԑm";
+"com.kustomer.Someone should be with you momentarily" = "Ɛwɔ sԑ obi bԑboa wo seesei ara";
+"com.kustomer.upfront_volume_control_alternative_method_question" = "Wobԑtumi atwԑn nnipa foforɔ a ɔdi hɔ, anaa wobԑtumi ayi kwan foforɔ a yԑbԑfa so ahwԑ wo.";
+"com.kustomer.volume_control_alternative_method_question" = "Kafra ԑyԑ ayԑ sԑ obiara nni hɔ berԑ a na yԑrehwԑ no. Mepawokyԑw yi kwan foforɔ bi a yԑbԑfa so ne wo akasa.¦";
+"com.kustomer.volume_control_email_question" = "Mo, email bԑn so na yԑbԑfa so a yԑn nsa bԑka wo?";
+"com.kustomer.volume_control_phone_question" = "Mo, fon nɔma bԑn so na yԑbԑfa so anya wo?";
+"com.kustomer.volume_control_thankyou_response" = "Meda wo ase, ԑnkyԑ koraa wobԑte yԑnka.";
+

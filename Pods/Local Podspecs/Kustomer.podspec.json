@@ -1,0 +1,38 @@
+{
+  "name": "Kustomer",
+  "authors": "Kustomer.com",
+  "summary": "The iOS SDK for the Kustomer.com mobile client",
+  "version": "0.3.2",
+  "platforms": {
+    "ios": "9.0"
+  },
+  "homepage": "https://github.com/kustomer/customer-ios.git",
+  "source": {
+    "git": "https://github.com/kustomer/customer-ios.git",
+    "tag": "0.3.2"
+  },
+  "dependencies": {
+    "libPusher": [
+      "~> 1.6.3"
+    ],
+    "TSMarkdownParser": [
+      "~> 2.1.5"
+    ],
+    "SDWebImage": [
+      "~> 5.2.2"
+    ],
+    "TTTAttributedLabel": [
+      "~> 2.0.0"
+    ],
+    "NYTPhotoViewer": [
+      "~> 2.0.0"
+    ]
+  },
+  "resources": [
+    "Source/**/*.{png,m4a}",
+    "Source/Strings.bundle"
+  ],
+  "source_files": "Source/**/*.{h,m}",
+  "requires_arc": true,
+  "frameworks": "UIKit"
+}

@@ -1,0 +1,62 @@
+/* 
+  Localizable.strings
+  Kustomer
+
+  Created by Hunain Shahid on 03/05/2018.
+  Copyright © 2018 Kustomer. All rights reserved.
+*/
+
+
+"com.kustomer.Just now" = "Ngayon lang";
+"com.kustomer.Attachment" = "Attachment";
+"com.kustomer.Camera" = "Camera";
+"com.kustomer.Photo Library" = "Photo Library";
+"com.kustomer.Cancel" = "Kanselahin";
+"com.kustomer.Something went wrong. Please try again." = "May nagkamali. Pakisubukang muli.";
+"com.kustomer.Try Again" = "Subukan muli";
+"com.kustomer.New Conversation" = "Bagong Pag-uusap";
+"com.kustomer.Don't miss a response! Get notified by email:" = "Huwag palampasin ang sagot! Maabisuhan sa pamamagitan ng email:";
+"com.kustomer.example@domain.com" = "example@domain.com";
+"com.kustomer.Type a message..." = "Mag-type ng mensahe ...";
+"com.kustomer.Loading..." = "Naglo-load ...";
+"com.kustomer.CLOSED" = "Nakasara";
+"com.kustomer.Start a New Conversation" = "Magsimula ng Bagong Pag-uusap";
+"com.kustomer.Thank You! We'll follow up on your request." = "Salamat! Susundan namin ang iyong kahilingan.";
+"com.kustomer.CHAT HAS ENDED" = "Natapos na ang chat";
+"com.kustomer.END CHAT" = "Tapusin ang Chat";
+"com.kustomer.Back to chat" = "Bumalik sa chat";
+"com.kustomer.Home" = "Bahay";
+"com.kustomer.Please select an item" = "Mangyaring pumili ng isang item";
+"com.kustomer.Leave a message" = "Mag-iwan ng mensahe";
+"com.kustomer.Someone should be with you momentarily" = "Ang isang tao ay dapat kasama mo sa ilang sandali";
+"com.kustomer.upfront_volume_control_alternative_method_question" = "Maaari mong piliin na maghintay para sa susunod na magagamit na ahente o pumili ng isang alternatibo paraan ng pakikipag-ugnay para sa amin upang mag-follow up sa iyo.";
+"com.kustomer.volume_control_alternative_method_question" = "Paumanhin, mukhang walang sinuman ang magagamit sa oras na inaasahan namin. Mangyaring pumili ng alternatibong paraan ng pakikipag-ugnay para sa amin upang mag-follow up sa iyo ...";
+"com.kustomer.volume_control_email_question" = "Mahusay, ano ang pinakamahusay na email upang maabot ka sa?";
+"com.kustomer.volume_control_phone_question" = "Mahusay, ano ang pinakamahusay na numero ng telepono upang maabot ka sa?";
+"com.kustomer.volume_control_thankyou_response" = "Salamat. Kami ay babalik sa iyo sa ilang sandali.";
+"com.kustomer.Submit" = "Ipasa";
+"com.kustomer.feedback_thankyou" = "Salamat sa iyo para sa iyong feedback!";
+"com.kustomer.Edit" = "I-edit";
+"com.kustomer.chat_with_param" = "Makipag-chat sa %@";
+"com.kustomer.your_expected_wait_time_is_param_second" = "Ang iyong inaasahang oras ng paghihintay ay %@ segundo";
+"com.kustomer.your_expected_wait_time_is_param_seconds" = "Ang inaasahang oras ng paghihintay ay %@ segundo";
+"com.kustomer.your_expected_wait_time_is_param_minute" = "Ang inaasahang oras ng paghihintay ay %@ minuto";
+"com.kustomer.your_expected_wait_time_is_param_minutes" = "Ang inaasahang oras ng paghihintay ay %@ minuto";
+"com.kustomer.your_expected_wait_time_is_param_hour" = "Ang inaasahang oras ng paghihintay ay %@ oras";
+"com.kustomer.your_expected_wait_time_is_param_hours" = "Ang inaasahang oras ng paghihintay ay %@ oras";
+"com.kustomer.your_expected_wait_time_is_greater_than_one_day" = "Ang iyong inaasahang oras ng paghihintay ay mas malaki sa isang araw";
+"com.kustomer.our_expected_wait_time_is_approximately_param_second" = "Ang aming kasalukuyang oras ng paghihintay ay humigit-kumulang %@ segundo";
+"com.kustomer.our_expected_wait_time_is_approximately_param_seconds" = "Ang aming kasalukuyang oras ng paghihintay ay humigit-kumulang sa %@ segundo";
+"com.kustomer.our_expected_wait_time_is_approximately_param_minute" = "Ang aming kasalukuyang oras ng paghihintay ay humigit-kumulang %@ minuto";
+"com.kustomer.our_expected_wait_time_is_approximately_param_minutes" = "Ang aming kasalukuyang oras ng paghihintay ay humigit-kumulang na %@ minuto";
+"com.kustomer.our_expected_wait_time_is_approximately_param_hour" = "Ang aming kasalukuyang oras ng paghihintay ay humigit-kumulang na %@ oras";
+"com.kustomer.our_expected_wait_time_is_approximately_param_hours" = "Ang aming kasalukuyang oras ng paghihintay ay humigit-kumulang na %@ oras";
+"com.kustomer.our_expected_wait_time_is_approximately_greater_than_one_day" = "Ang aming kasalukuyang oras ng paghihintay ay humigit-kumulang na higit sa isang araw";
+"com.kustomer.param_minute_ago" = "%@ minuto ang nakalipas";
+"com.kustomer.param_minutes_ago" = "%@ minuto ang nakalipas";
+"com.kustomer.param_hour_ago" = "%@ oras ang nakalipas";
+"com.kustomer.param_hours_ago" = "%@ oras ang nakalipas";
+"com.kustomer.param_day_ago" = "%@ araw na nakalipas";
+"com.kustomer.param_days_ago" = "%@ araw na nakalipas";
+"com.kustomer.param_week_ago" = "%@ linggo nakaraan";
+"com.kustomer.param_weeks_ago" = "%@ linggo nakaraan";

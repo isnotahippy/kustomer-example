@@ -1,0 +1,62 @@
+/* 
+  Localizable.strings
+  Kustomer
+
+  Created by Hunain Shahid on 03/05/2018.
+  Copyright © 2018 Kustomer. All rights reserved.
+*/
+
+
+"com.kustomer.Just now" = "Precis nu";
+"com.kustomer.Attachment" = "Bilaga";
+"com.kustomer.Camera" = "Kamera";
+"com.kustomer.Photo Library" = "Fotobibliotek";
+"com.kustomer.Cancel" = "Annullera";
+"com.kustomer.Something went wrong. Please try again." = "Något gick fel. Var god försök igen.";
+"com.kustomer.Try Again" = "Försök igen";
+"com.kustomer.New Conversation" = "Ny konversation";
+"com.kustomer.Don't miss a response! Get notified by email:" = "Missa inte ett svar! Få anmälan via e-post:";
+"com.kustomer.example@domain.com" = "example@domain.com";
+"com.kustomer.Type a message..." = "Skriv ett meddelande...";
+"com.kustomer.Loading..." = "Läser in...";
+"com.kustomer.CLOSED" = "STÄNGD";
+"com.kustomer.Start a New Conversation" = "Starta en ny konversation";
+"com.kustomer.Thank You! We'll follow up on your request." = "Tack! Vi följer upp din förfrågan.";
+"com.kustomer.CHAT HAS ENDED" = "Chatten har slutat";
+"com.kustomer.END CHAT" = "Avsluta chat";
+"com.kustomer.Back to chat" = "Tillbaka till chatt";
+"com.kustomer.Home" = "Hem";
+"com.kustomer.Please select an item" = "Var god välj ett objekt";
+"com.kustomer.Leave a message" = "Lämna ett meddelande";
+"com.kustomer.Someone should be with you momentarily" = "Någon borde vara med dig tillfälligt";
+"com.kustomer.upfront_volume_control_alternative_method_question" = "Du kan välja att vänta på nästa tillgängliga agent eller välj ett alternativ kontaktmetod för oss att följa upp med dig.";
+"com.kustomer.volume_control_alternative_method_question" = "Tyvärr ser det ut att ingen har blivit tillgänglig under den tid vi förväntade oss. Var god välj en alternativ kontaktmetod för att följa upp med dig ...";
+"com.kustomer.volume_control_email_question" = "Bra, vad är den bästa e-postadressen för att nå dig på?";
+"com.kustomer.volume_control_phone_question" = "Bra, vad är det bästa telefonnumret för att nå dig?";
+"com.kustomer.volume_control_thankyou_response" = "Tack. Vi kommer snart tillbaka till dig.";
+"com.kustomer.Submit" = "Lämna";
+"com.kustomer.feedback_thankyou" = "Tack för din feedback!";
+"com.kustomer.Edit" = "Redigera";
+"com.kustomer.chat_with_param" = "Chatta med %@";
+"com.kustomer.your_expected_wait_time_is_param_second" = "Din väntade väntetid är %@ sekund";
+"com.kustomer.your_expected_wait_time_is_param_seconds" = "Din väntade väntetid är %@ sekunder";
+"com.kustomer.your_expected_wait_time_is_param_minute" = "Din väntade väntetid är %@ minut";
+"com.kustomer.your_expected_wait_time_is_param_minutes" = "Din väntade väntetid är %@ minuter";
+"com.kustomer.your_expected_wait_time_is_param_hour" = "Din väntade väntetid är %@ timme";
+"com.kustomer.your_expected_wait_time_is_param_hours" = "Din väntade väntetid är %@ timmar";
+"com.kustomer.your_expected_wait_time_is_greater_than_one_day" = "Din väntade väntetid är större än en dag";
+"com.kustomer.our_expected_wait_time_is_approximately_param_second" = "Vår nuvarande väntetid är ungefär %@ sekund";
+"com.kustomer.our_expected_wait_time_is_approximately_param_seconds" = "Vår nuvarande väntetid är ungefär %@ sekunder";
+"com.kustomer.our_expected_wait_time_is_approximately_param_minute" = "Vår nuvarande väntetid är cirka %@ minut";
+"com.kustomer.our_expected_wait_time_is_approximately_param_minutes" = "Vår nuvarande väntetid är ca %@ minuter";
+"com.kustomer.our_expected_wait_time_is_approximately_param_hour" = "Vår nuvarande väntetid är ca %@ timme";
+"com.kustomer.our_expected_wait_time_is_approximately_param_hours" = "Vår nuvarande väntetid är ca %@ timmar";
+"com.kustomer.our_expected_wait_time_is_approximately_greater_than_one_day" = "Vår nuvarande väntetid är ungefär större än en dag";
+"com.kustomer.param_minute_ago" = "%@ minut sedan";
+"com.kustomer.param_minutes_ago" = "för %@ minuter sedan";
+"com.kustomer.param_hour_ago" = "%@ timme sedan";
+"com.kustomer.param_hours_ago" = "%@ timmar sedan";
+"com.kustomer.param_day_ago" = "%@ dag sedan";
+"com.kustomer.param_days_ago" = "%@ dagar sedan";
+"com.kustomer.param_week_ago" = "%@ vecka sedan";
+"com.kustomer.param_weeks_ago" = "%@ veckor sedan";

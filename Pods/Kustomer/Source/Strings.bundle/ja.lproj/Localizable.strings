@@ -1,0 +1,62 @@
+/* 
+  Localizable.strings
+  Kustomer
+
+  Created by Hunain Shahid on 03/05/2018.
+  Copyright © 2018 Kustomer. All rights reserved.
+*/
+
+
+"com.kustomer.Just now" = "ちょうど今";
+"com.kustomer.Attachment" = "アタッチメント";
+"com.kustomer.Camera" = "カメラ";
+"com.kustomer.Photo Library" = "フォトライブラリ";
+"com.kustomer.Cancel" = "キャンセル";
+"com.kustomer.Something went wrong. Please try again." = "何かが間違っていた。もう一度お試しください。";
+"com.kustomer.Try Again" = "再試行する";
+"com.kustomer.New Conversation" = "新しい会話";
+"com.kustomer.Don't miss a response! Get notified by email:" = "レスポンスをお見逃しなく！メールで通知する：";
+"com.kustomer.example@domain.com" = "example@domain.com";
+"com.kustomer.Type a message..." = "メッセージを入力してください...";
+"com.kustomer.Loading..." = "読み込んでいます...";
+"com.kustomer.CLOSED" = "閉まっている";
+"com.kustomer.Start a New Conversation" = "新しい会話を開始する";
+"com.kustomer.Thank You! We'll follow up on your request." = "ありがとうございました！私たちはあなたの要求をフォローアップします。";
+"com.kustomer.CHAT HAS ENDED" = "チャットが終了しました";
+"com.kustomer.END CHAT" = "チャットを終了";
+"com.kustomer.Back to chat" = "チャットに戻る";
+"com.kustomer.Home" = "ホーム";
+"com.kustomer.Please select an item" = "アイテムを選択してください";
+"com.kustomer.Leave a message" = "伝言を残す";
+"com.kustomer.Someone should be with you momentarily" = "誰かがあなたと一瞬一緒にいるはずです";
+"com.kustomer.upfront_volume_control_alternative_method_question" = "次に使用可能なエージェントを待つか、代替エージェントを選択することができます 私たちがあなたにフォローアップする連絡方法。";
+"com.kustomer.volume_control_alternative_method_question" = "申し訳ありませんが、期待した時間に誰も利用できなくなったようです。あなたにフォローアップするための代替連絡方法を選択してください...";
+"com.kustomer.volume_control_email_question" = "偉大な、あなたに届く最高の電子メールは何ですか？";
+"com.kustomer.volume_control_phone_question" = "あなたに連絡するのに最適な電話番号は何ですか？";
+"com.kustomer.volume_control_thankyou_response" = "ありがとうございました。私たちはまもなくあなたに連絡します。";
+"com.kustomer.Submit" = "提出します";
+"com.kustomer.feedback_thankyou" = "ご意見ありがとうございます！";
+"com.kustomer.Edit" = "編集します";
+"com.kustomer.chat_with_param" = "%@とチャット";
+"com.kustomer.your_expected_wait_time_is_param_second" = "あなたの予想待ち時間は%@秒です";
+"com.kustomer.your_expected_wait_time_is_param_seconds" = "あなたの予想待ち時間は%@秒です";
+"com.kustomer.your_expected_wait_time_is_param_minute" = "あなたの予想待ち時間は%@分です";
+"com.kustomer.your_expected_wait_time_is_param_minutes" = "あなたの予想待ち時間は%@分です";
+"com.kustomer.your_expected_wait_time_is_param_hour" = "あなたの予想待ち時間は%@時間です";
+"com.kustomer.your_expected_wait_time_is_param_hours" = "あなたの予想待ち時間は%@時間です";
+"com.kustomer.your_expected_wait_time_is_greater_than_one_day" = "予想待ち時間は%@日を超えています";
+"com.kustomer.our_expected_wait_time_is_approximately_param_second" = "現在の待ち時間は約%@秒です";
+"com.kustomer.our_expected_wait_time_is_approximately_param_seconds" = "現在の待ち時間は約%@秒です";
+"com.kustomer.our_expected_wait_time_is_approximately_param_minute" = "現在の待ち時間は約%@分です";
+"com.kustomer.our_expected_wait_time_is_approximately_param_minutes" = "現在の待ち時間は約%@分です";
+"com.kustomer.our_expected_wait_time_is_approximately_param_hour" = "現在の待ち時間は約%@時間です";
+"com.kustomer.our_expected_wait_time_is_approximately_param_hours" = "現在の待ち時間は約%@時間です";
+"com.kustomer.our_expected_wait_time_is_approximately_greater_than_one_day" = "私たちの現在の待ち時間はおよそ%@日以上です";
+"com.kustomer.param_minute_ago" = "%@分前";
+"com.kustomer.param_minutes_ago" = "%@分前";
+"com.kustomer.param_hour_ago" = "%@時間前";
+"com.kustomer.param_hours_ago" = "%@時間前";
+"com.kustomer.param_day_ago" = "%@日前";
+"com.kustomer.param_days_ago" = "%@日前";
+"com.kustomer.param_week_ago" = "%@週間前";
+"com.kustomer.param_weeks_ago" = "%@週間前";

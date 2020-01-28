@@ -1,0 +1,62 @@
+/* 
+  Localizable.strings
+  Kustomer
+
+  Created by Hunain Shahid on 03/05/2018.
+  Copyright © 2018 Kustomer. All rights reserved.
+*/
+
+
+"com.kustomer.Just now" = "ახლახანს";
+"com.kustomer.Attachment" = "დანართი";
+"com.kustomer.Camera" = "კამერა";
+"com.kustomer.Photo Library" = "ფოტო ბიბლიოთეკა";
+"com.kustomer.Cancel" = "გაუქმება";
+"com.kustomer.Something went wrong. Please try again." = "რაღაც არასწორად წავიდა. გთხოვთ კიდევ სცადეთ.";
+"com.kustomer.Try Again" = "კიდევ სცადე";
+"com.kustomer.New Conversation" = "ახალი საუბარი";
+"com.kustomer.Don't miss a response! Get notified by email:" = "არ გამოტოვოთ პასუხი! მიიღეთ შეტყობინება ელფოსტით:";
+"com.kustomer.example@domain.com" = "example@domain.com";
+"com.kustomer.Type a message..." = "გაგზავნა გაგზავნა ...";
+"com.kustomer.Loading..." = "ჩატვირთვა...";
+"com.kustomer.CLOSED" = "დახურულია";
+"com.kustomer.Start a New Conversation" = "ახალი მიმოწერის დაწყება";
+"com.kustomer.Thank You! We'll follow up on your request." = "გმადლობთ! ჩვენ მივყვებით თქვენს თხოვნას.";
+"com.kustomer.CHAT HAS ENDED" = "ჩეთი დასრულდა";
+"com.kustomer.END CHAT" = "საუბრის დახურვა";
+"com.kustomer.Back to chat" = "ჩეთში დაბრუნება";
+"com.kustomer.Home" = "მთავარი";
+"com.kustomer.Please select an item" = "გთხოვთ, აირჩიოთ ერთეული";
+"com.kustomer.Leave a message" = "Დატოვე შეტყობინება";
+"com.kustomer.Someone should be with you momentarily" = "ვიღაცამ შენთან ერთად უნდა იყოს";
+"com.kustomer.upfront_volume_control_alternative_method_question" = "შეგიძლიათ აირჩიოთ შემდეგი ხელმისაწვდომი აგენტისთვის ან აირჩიოთ ალტერნატივა დაგვიკავშირდით ჩვენთან ერთად.";
+"com.kustomer.volume_control_alternative_method_question" = "უკაცრავად, როგორც ჩანს, ვერავინ ვერ მოხვდა ჩვენთვის მოსალოდნელ დროს. გთხოვთ, აირჩიოთ ალტერნატიული კონტაქტების მეთოდი ჩვენთან ერთად.";
+"com.kustomer.volume_control_email_question" = "დიდი, რა არის საუკეთესო ელფოსტის მიღწევა თქვენთან?";
+"com.kustomer.volume_control_phone_question" = "დიდი, რა არის საუკეთესო ტელეფონის ნომერი, რომ მიგიწვდინოთ?";
+"com.kustomer.volume_control_thankyou_response" = "Გმადლობთ. ჩვენ ცოტა ხნით დავბრუნდებით.";
+"com.kustomer.Submit" = "წარუდგინოს";
+"com.kustomer.feedback_thankyou" = "დიდი მადლობა გამოხმაურებისათვის!";
+"com.kustomer.Edit" = "რედაქტირება";
+"com.kustomer.chat_with_param" = "ესაუბრეთ %@- ს";
+"com.kustomer.your_expected_wait_time_is_param_second" = "თქვენი მოსალოდნელია დაველოდოთ დრო არის %@ წამი";
+"com.kustomer.your_expected_wait_time_is_param_seconds" = "თქვენი მოსალოდნელია დაველოდოთ დრო %@ წამი";
+"com.kustomer.your_expected_wait_time_is_param_minute" = "თქვენი მოსალოდნელი ლოდინის დროა %@ წუთი";
+"com.kustomer.your_expected_wait_time_is_param_minutes" = "თქვენი მოსალოდნელი დრო %@ წუთია";
+"com.kustomer.your_expected_wait_time_is_param_hour" = "თქვენი მოსალოდნელი დროა %@ საათი";
+"com.kustomer.your_expected_wait_time_is_param_hours" = "თქვენი მოსალოდნელი დრო %@ საათია";
+"com.kustomer.your_expected_wait_time_is_greater_than_one_day" = "თქვენი მოსალოდნელი დატვირთვა დრო ერთ დღეზე მეტია";
+"com.kustomer.our_expected_wait_time_is_approximately_param_second" = "ჩვენი ამჟამინდელი ლოდინის დრო დაახლოებით %@ წამია";
+"com.kustomer.our_expected_wait_time_is_approximately_param_seconds" = "ჩვენი ამჟამინდელი ლოდინის დრო დაახლოებით %@ წამია";
+"com.kustomer.our_expected_wait_time_is_approximately_param_minute" = "ჩვენი ამჟამინდელი ლოდინის დრო დაახლოებით %@ წუთია";
+"com.kustomer.our_expected_wait_time_is_approximately_param_minutes" = "ჩვენი ამჟამინდელი ლოდინის დრო დაახლოებით %@ წუთია";
+"com.kustomer.our_expected_wait_time_is_approximately_param_hour" = "ჩვენი ამჟამინდელი ლოდინის დრო დაახლოებით %@ საათია";
+"com.kustomer.our_expected_wait_time_is_approximately_param_hours" = "ჩვენი ამჟამინდელი ლოდინის დრო დაახლოებით %@ საათია";
+"com.kustomer.our_expected_wait_time_is_approximately_greater_than_one_day" = "ჩვენი დღევანდელი ლოდინის დრო დაახლოებით ერთ დღეზე მეტია";
+"com.kustomer.param_minute_ago" = "%@ წუთის წინ";
+"com.kustomer.param_minutes_ago" = "%@ წუთის წინ";
+"com.kustomer.param_hour_ago" = "%@ საათის წინ";
+"com.kustomer.param_hours_ago" = "%@ საათის წინ";
+"com.kustomer.param_day_ago" = "%@ დღის წინ";
+"com.kustomer.param_days_ago" = "%@ დღის წინ";
+"com.kustomer.param_week_ago" = "%@ კვირის წინ";
+"com.kustomer.param_weeks_ago" = "%@ კვირის წინ";

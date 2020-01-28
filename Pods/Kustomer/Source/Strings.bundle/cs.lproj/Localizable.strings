@@ -1,0 +1,62 @@
+/* 
+  Localizable.strings
+  Kustomer
+
+  Created by Hunain Shahid on 03/05/2018.
+  Copyright © 2018 Kustomer. All rights reserved.
+*/
+
+
+"com.kustomer.Just now" = "Právě teď";
+"com.kustomer.Attachment" = "Příloha";
+"com.kustomer.Camera" = "Fotoaparát";
+"com.kustomer.Photo Library" = "Fotografická knihovna";
+"com.kustomer.Cancel" = "zrušení";
+"com.kustomer.Something went wrong. Please try again." = "Něco se pokazilo. Prosím zkuste to znovu.";
+"com.kustomer.Try Again" = "Zkus to znovu";
+"com.kustomer.New Conversation" = "Nová konverzace";
+"com.kustomer.Don't miss a response! Get notified by email:" = "Nenechte si ujít odpověď! Obdržte oznámení prostřednictvím e-mailu:";
+"com.kustomer.example@domain.com" = "example@domain.com";
+"com.kustomer.Type a message..." = "Zadejte zprávu ...";
+"com.kustomer.Loading..." = "Načítání...";
+"com.kustomer.CLOSED" = "ZAVŘENO";
+"com.kustomer.Start a New Conversation" = "Spusťte novou konverzaci";
+"com.kustomer.Thank You! We'll follow up on your request." = "Děkuji! Budeme pokračovat ve Vaší žádosti.";
+"com.kustomer.CHAT HAS ENDED" = "Chat skončil";
+"com.kustomer.END CHAT" = "Ukončit rozhovor";
+"com.kustomer.Back to chat" = "Zpět na chat";
+"com.kustomer.Home" = "Domov";
+"com.kustomer.Please select an item" = "Vyberte prosím položku";
+"com.kustomer.Leave a message" = "Zanechat vzkaz";
+"com.kustomer.Someone should be with you momentarily" = "Někdo by měl být s tebou na okamžik";
+"com.kustomer.upfront_volume_control_alternative_method_question" = "Můžete si vyčkat na další dostupný agent nebo vybrat alternativu kontaktní metodu, abychom nás mohli s vámi sledovat.";
+"com.kustomer.volume_control_alternative_method_question" = "Je nám líto, zdá se, že nikdo nebyl dostupný v době, kterou jsme očekávali. Zvolte prosím alternativní metodu kontaktu s námi.";
+"com.kustomer.volume_control_email_question" = "Skvělé, jaký je nejlepší e-mail, na který se chcete dostat?";
+"com.kustomer.volume_control_phone_question" = "Skvělé, jaké je nejlepší telefonní číslo, na které se chcete dostat?";
+"com.kustomer.volume_control_thankyou_response" = "Děkuji. Vrátíme se k vám brzy.";
+"com.kustomer.Submit" = "Předložit";
+"com.kustomer.feedback_thankyou" = "Děkujeme vám za vaši reakci!";
+"com.kustomer.Edit" = "Upravit";
+"com.kustomer.chat_with_param" = "Chatujte s %@";
+"com.kustomer.your_expected_wait_time_is_param_second" = "Očekávaná doba čekání je %@ sekunda";
+"com.kustomer.your_expected_wait_time_is_param_seconds" = "Očekávaná doba čekání je %@ sekundy";
+"com.kustomer.your_expected_wait_time_is_param_minute" = "Očekávaná doba čekání je %@ minuta";
+"com.kustomer.your_expected_wait_time_is_param_minutes" = "Očekávaná doba čekání je %@ minuty";
+"com.kustomer.your_expected_wait_time_is_param_hour" = "Očekávaná doba čekání je %@ hodina";
+"com.kustomer.your_expected_wait_time_is_param_hours" = "Očekávaná doba čekání je %@ hodiny";
+"com.kustomer.your_expected_wait_time_is_greater_than_one_day" = "Očekávaná doba čekání je větší než jeden den";
+"com.kustomer.our_expected_wait_time_is_approximately_param_second" = "Naše aktuální čekací doba je přibližně %@ sekundu";
+"com.kustomer.our_expected_wait_time_is_approximately_param_seconds" = "Naše aktuální čekací doba je přibližně %@ sekundy";
+"com.kustomer.our_expected_wait_time_is_approximately_param_minute" = "Naše aktuální čekací doba je přibližně %@ minuta";
+"com.kustomer.our_expected_wait_time_is_approximately_param_minutes" = "Naše aktuální čekací doba je přibližně %@ minuty";
+"com.kustomer.our_expected_wait_time_is_approximately_param_hour" = "Naše aktuální čekací doba je přibližně %@ hodina";
+"com.kustomer.our_expected_wait_time_is_approximately_param_hours" = "Naše aktuální čekací doba je přibližně %@ hodiny";
+"com.kustomer.our_expected_wait_time_is_approximately_greater_than_one_day" = "Naše aktuální čekací doba je přibližně větší než jeden den";
+"com.kustomer.param_minute_ago" = "Před %@ minutou";
+"com.kustomer.param_minutes_ago" = "Před %@ minutami";
+"com.kustomer.param_hour_ago" = "před %@ hodinou";
+"com.kustomer.param_hours_ago" = "před %@ hodinami";
+"com.kustomer.param_day_ago" = "před %@ dnem";
+"com.kustomer.param_days_ago" = "před %@ dny";
+"com.kustomer.param_week_ago" = "před %@ týdnem";
+"com.kustomer.param_weeks_ago" = "Před %@ týdny";

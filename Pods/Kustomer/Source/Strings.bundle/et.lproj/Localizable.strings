@@ -1,0 +1,62 @@
+/* 
+  Localizable.strings
+  Kustomer
+
+  Created by Hunain Shahid on 03/05/2018.
+  Copyright © 2018 Kustomer. All rights reserved.
+*/
+
+
+"com.kustomer.Just now" = "Just praegu";
+"com.kustomer.Attachment" = "Manus";
+"com.kustomer.Camera" = "Kaamera";
+"com.kustomer.Photo Library" = "Fotokogu";
+"com.kustomer.Cancel" = "Loobu";
+"com.kustomer.Something went wrong. Please try again." = "Midagi läks valesti. Palun proovi uuesti.";
+"com.kustomer.Try Again" = "Proovi uuesti";
+"com.kustomer.New Conversation" = "Uus vestlus";
+"com.kustomer.Don't miss a response! Get notified by email:" = "Ära jäta vastust! Saate teatada e-posti teel:";
+"com.kustomer.example@domain.com" = "example@domain.com";
+"com.kustomer.Type a message..." = "Sisestage sõnum ...";
+"com.kustomer.Loading..." = "Laadimine ...";
+"com.kustomer.CLOSED" = "Suletud";
+"com.kustomer.Start a New Conversation" = "Alusta uut vestlust";
+"com.kustomer.Thank You! We'll follow up on your request." = "Aitäh! Järgime teie soovi.";
+"com.kustomer.CHAT HAS ENDED" = "Vestlus on lõppenud";
+"com.kustomer.END CHAT" = "Lõpeta vestlus";
+"com.kustomer.Back to chat" = "Tagasi vestlema";
+"com.kustomer.Home" = "Kodu";
+"com.kustomer.Please select an item" = "Palun valige üksus";
+"com.kustomer.Leave a message" = "Jäta sõnum";
+"com.kustomer.Someone should be with you momentarily" = "Keegi peaks olema sinuga hetkeks";
+"com.kustomer.upfront_volume_control_alternative_method_question" = "Võite oodata järgmise saadaval oleva agendi või valida alternatiiv võtke meiega ühendust, et jälgida teiega ühendust.";
+"com.kustomer.volume_control_alternative_method_question" = "Kahjuks tundub, et keegi ei ole kasutusele oodatud. Palun vali alternatiivne kontaktiviis, mida saaksime teiega jälgida ...";
+"com.kustomer.volume_control_email_question" = "Hea, mis on parim e-kiri, et jõuda teie juurde?";
+"com.kustomer.volume_control_phone_question" = "Suur, mis on parim telefoninumber, et jõuda teid?";
+"com.kustomer.volume_control_thankyou_response" = "Aitäh. Me lähme peatselt teie juurde.";
+"com.kustomer.Submit" = "Esita";
+"com.kustomer.feedback_thankyou" = "Aitäh tagasiside eest!";
+"com.kustomer.Edit" = "Edit";
+"com.kustomer.chat_with_param" = "Vestle %@iga";
+"com.kustomer.your_expected_wait_time_is_param_second" = "Teie oodatav ooteaeg on %@ sekund";
+"com.kustomer.your_expected_wait_time_is_param_seconds" = "Teie oodatav ooteaeg on %@ sekundit";
+"com.kustomer.your_expected_wait_time_is_param_minute" = "Teie oodatav ooteaeg on %@ minut";
+"com.kustomer.your_expected_wait_time_is_param_minutes" = "Teie oodatav ooteaeg on %@ minutit";
+"com.kustomer.your_expected_wait_time_is_param_hour" = "Teie oodatav ooteaeg on %@ tund";
+"com.kustomer.your_expected_wait_time_is_param_hours" = "Teie oodatav ooteaeg on %@ tundi";
+"com.kustomer.your_expected_wait_time_is_greater_than_one_day" = "Teie oodatav ooteaeg on pikem kui üks päev";
+"com.kustomer.our_expected_wait_time_is_approximately_param_second" = "Meie praegune ooteaeg on umbes %@ sekund";
+"com.kustomer.our_expected_wait_time_is_approximately_param_seconds" = "Meie praegune ooteaeg on umbes %@ sekundit";
+"com.kustomer.our_expected_wait_time_is_approximately_param_minute" = "Meie praegune ooteaeg on umbes %@ minut";
+"com.kustomer.our_expected_wait_time_is_approximately_param_minutes" = "Meie praegune ooteaeg on umbes %@ minutit";
+"com.kustomer.our_expected_wait_time_is_approximately_param_hour" = "Meie praegune ooteaeg on umbes %@ tund";
+"com.kustomer.our_expected_wait_time_is_approximately_param_hours" = "Meie praegune ooteaeg on umbes %@ tundi";
+"com.kustomer.our_expected_wait_time_is_approximately_greater_than_one_day" = "Meie praegune ooteaeg on umbes üks päev";
+"com.kustomer.param_minute_ago" = "%@ minut tagasi";
+"com.kustomer.param_minutes_ago" = "%@ minutit tagasi";
+"com.kustomer.param_hour_ago" = "%@ tund tagasi";
+"com.kustomer.param_hours_ago" = "%@ tundi tagasi";
+"com.kustomer.param_day_ago" = "%@ päev tagasi";
+"com.kustomer.param_days_ago" = "%@ päeva tagasi";
+"com.kustomer.param_week_ago" = "%@ nädal tagasi";
+"com.kustomer.param_weeks_ago" = "%@ nädalat tagasi";

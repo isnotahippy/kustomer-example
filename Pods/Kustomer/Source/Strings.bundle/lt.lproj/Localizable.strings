@@ -1,0 +1,62 @@
+/* 
+  Localizable.strings
+  Kustomer
+
+  Created by Hunain Shahid on 03/05/2018.
+  Copyright © 2018 Kustomer. All rights reserved.
+*/
+
+
+"com.kustomer.Just now" = "Dabar";
+"com.kustomer.Attachment" = "Priedas";
+"com.kustomer.Camera" = "Fotoaparatas";
+"com.kustomer.Photo Library" = "Nuotraukų biblioteka";
+"com.kustomer.Cancel" = "Atšaukti";
+"com.kustomer.Something went wrong. Please try again." = "Kažkas nutiko. Prašau, pabandykite dar kartą.";
+"com.kustomer.Try Again" = "Bandyk iš naujo";
+"com.kustomer.New Conversation" = "Nauja pokalbis";
+"com.kustomer.Don't miss a response! Get notified by email:" = "Nepraleiskite atsakymo! Gaukite pranešimą elektroniniu paštu:";
+"com.kustomer.example@domain.com" = "example@domain.com";
+"com.kustomer.Type a message..." = "Įveskite pranešimą ...";
+"com.kustomer.Loading..." = "Kraunasi ...";
+"com.kustomer.CLOSED" = "UŽDARYTA";
+"com.kustomer.Start a New Conversation" = "Pradėkite naują pokalbį";
+"com.kustomer.Thank You! We'll follow up on your request." = "Ačiū! Mes atliksime jūsų prašymą.";
+"com.kustomer.CHAT HAS ENDED" = "Pokalbiai baigėsi";
+"com.kustomer.END CHAT" = "Pabaiga pokalbis";
+"com.kustomer.Back to chat" = "Atgal į pokalbį";
+"com.kustomer.Home" = "Namai";
+"com.kustomer.Please select an item" = "Pasirinkite elementą";
+"com.kustomer.Leave a message" = "Palik žinutę";
+"com.kustomer.Someone should be with you momentarily" = "Kažkas turėtų būti su tavimi akimirksniu";
+"com.kustomer.upfront_volume_control_alternative_method_question" = "Galite pasirinkti palaukti kito turimo agento ar pasirinkti alternatyvą susisiekite su mumis, kad galėtume su jumis sekti.";
+"com.kustomer.volume_control_alternative_method_question" = "Atsiprašome, atrodo, kad niekas netapo mūsų tikėtino laiko. Prašome pasirinkti alternatyvų kontaktinį metodą, kad galėtume sekti su jumis ...";
+"com.kustomer.volume_control_email_question" = "Puiku, koks geriausias el. Laiškas jus pasiekė?";
+"com.kustomer.volume_control_phone_question" = "Puikus, koks geriausias telefono numeris jums pasiekti?";
+"com.kustomer.volume_control_thankyou_response" = "Ačiū. Mes netrukus susisieksime su jumis.";
+"com.kustomer.Submit" = "Pateikti";
+"com.kustomer.feedback_thankyou" = "Dėkojame už jūsų atsiliepimus!";
+"com.kustomer.Edit" = "Redaguoti";
+"com.kustomer.chat_with_param" = "Pokalbiai su „%@“";
+"com.kustomer.your_expected_wait_time_is_param_second" = "Jūsų laukiamas laukimo laikas yra %@ sekundė";
+"com.kustomer.your_expected_wait_time_is_param_seconds" = "Jūsų laukiamas laukimo laikas yra %@ sekundės";
+"com.kustomer.your_expected_wait_time_is_param_minute" = "Jūsų laukiamas laukimo laikas yra %@ minutė";
+"com.kustomer.your_expected_wait_time_is_param_minutes" = "Jūsų laukiamas laukimo laikas yra %@ minutės";
+"com.kustomer.your_expected_wait_time_is_param_hour" = "Jūsų laukiamas laukimo laikas yra %@ val";
+"com.kustomer.your_expected_wait_time_is_param_hours" = "Jūsų laukiamas laukimo laikas yra %@ valandos";
+"com.kustomer.your_expected_wait_time_is_greater_than_one_day" = "Jūsų laukiamas laukimo laikas yra ilgesnis nei viena diena";
+"com.kustomer.our_expected_wait_time_is_approximately_param_second" = "Mūsų dabartinis laukimo laikas yra maždaug %@ sekundė";
+"com.kustomer.our_expected_wait_time_is_approximately_param_seconds" = "Dabartinis mūsų laukimo laikas yra maždaug %@ sekundės";
+"com.kustomer.our_expected_wait_time_is_approximately_param_minute" = "Mūsų dabartinis laukimo laikas yra maždaug %@ minutė";
+"com.kustomer.our_expected_wait_time_is_approximately_param_minutes" = "Mūsų dabartinis laukimo laikas yra maždaug %@ minutės";
+"com.kustomer.our_expected_wait_time_is_approximately_param_hour" = "Mūsų dabartinis laukimo laikas yra maždaug %@ val";
+"com.kustomer.our_expected_wait_time_is_approximately_param_hours" = "Mūsų dabartinis laukimo laikas yra maždaug %@ valandos";
+"com.kustomer.our_expected_wait_time_is_approximately_greater_than_one_day" = "Dabartinis mūsų laukimo laikas yra maždaug daugiau nei viena diena";
+"com.kustomer.param_minute_ago" = "Prieš %@ minutę";
+"com.kustomer.param_minutes_ago" = "Prieš %@ minutes";
+"com.kustomer.param_hour_ago" = "Prieš %@ valandą";
+"com.kustomer.param_hours_ago" = "prieš %@ valandas";
+"com.kustomer.param_day_ago" = "Prieš %@ dieną";
+"com.kustomer.param_days_ago" = "prieš %@ dienas";
+"com.kustomer.param_week_ago" = "prieš %@ savaitę";
+"com.kustomer.param_weeks_ago" = "prieš %@ savaites";

@@ -1,0 +1,62 @@
+PODS:
+  - FLAnimatedImage (1.0.12)
+  - Kustomer (0.3.2):
+    - libPusher (~> 1.6.3)
+    - NYTPhotoViewer (~> 2.0.0)
+    - SDWebImage (~> 5.2.2)
+    - TSMarkdownParser (~> 2.1.5)
+    - TTTAttributedLabel (~> 2.0.0)
+  - libPusher (1.6.3):
+    - libPusher/Core (= 1.6.3)
+  - libPusher/Core (1.6.3):
+    - SocketRocket (= 0.5.1)
+  - NYTPhotoViewer (2.0.0):
+    - NYTPhotoViewer/AnimatedGifSupport (= 2.0.0)
+    - NYTPhotoViewer/Core (= 2.0.0)
+  - NYTPhotoViewer/AnimatedGifSupport (2.0.0):
+    - FLAnimatedImage (~> 1.0.12)
+    - NYTPhotoViewer/Core
+  - NYTPhotoViewer/Core (2.0.0)
+  - SDWebImage (5.2.5):
+    - SDWebImage/Core (= 5.2.5)
+  - SDWebImage/Core (5.2.5)
+  - SocketRocket (0.5.1)
+  - TSMarkdownParser (2.1.5)
+  - TTTAttributedLabel (2.0.0)
+
+DEPENDENCIES:
+  - Kustomer (from `https://github.com/kustomer/customer-ios.git`, branch `release/0.3.2`)
+
+SPEC REPOS:
+  trunk:
+    - FLAnimatedImage
+    - libPusher
+    - NYTPhotoViewer
+    - SDWebImage
+    - SocketRocket
+    - TSMarkdownParser
+    - TTTAttributedLabel
+
+EXTERNAL SOURCES:
+  Kustomer:
+    :branch: release/0.3.2
+    :git: https://github.com/kustomer/customer-ios.git
+
+CHECKOUT OPTIONS:
+  Kustomer:
+    :commit: 6efa5892796b5dcc5d1fcd5274ff9ee8e680ca63
+    :git: https://github.com/kustomer/customer-ios.git
+
+SPEC CHECKSUMS:
+  FLAnimatedImage: 4a0b56255d9b05f18b6dd7ee06871be5d3b89e31
+  Kustomer: fbd1434d79c8c16f3cdae2d56fb270d06b985c33
+  libPusher: b7fcf16e2db51c37915613652311d66065743ead
+  NYTPhotoViewer: 34b8bd6bcc297466adec1668f9a01249d73c90e6
+  SDWebImage: 4eabf2fa6695c95c47724214417a9c036c965e4a
+  SocketRocket: d57c7159b83c3c6655745cd15302aa24b6bae531
+  TSMarkdownParser: 3224ea196ecc7148fa7e03bc438f9390d4edfb6d
+  TTTAttributedLabel: 8cffe8e127e4e82ff3af1e5386d4cd0ad000b656
+
+PODFILE CHECKSUM: 754f88714d67c056cd1b640fa64905b0e7df63f9
+
+COCOAPODS: 1.8.4

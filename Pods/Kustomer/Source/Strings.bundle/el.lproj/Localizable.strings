@@ -1,0 +1,62 @@
+/* 
+  Localizable.strings
+  Kustomer
+
+  Created by Hunain Shahid on 03/05/2018.
+  Copyright © 2018 Kustomer. All rights reserved.
+*/
+
+
+"com.kustomer.Just now" = "Μόλις τώρα";
+"com.kustomer.Attachment" = "Συνημμένο";
+"com.kustomer.Camera" = "ΦΩΤΟΓΡΑΦΙΚΗ ΜΗΧΑΝΗ";
+"com.kustomer.Photo Library" = "Βιβλιοθήκη φωτογραφιών";
+"com.kustomer.Cancel" = "Ματαίωση";
+"com.kustomer.Something went wrong. Please try again." = "Κάτι πήγε στραβά. ΠΑΡΑΚΑΛΩ προσπαθησε ξανα.";
+"com.kustomer.Try Again" = "Προσπάθησε ξανά";
+"com.kustomer.New Conversation" = "Νέα συζήτηση";
+"com.kustomer.Don't miss a response! Get notified by email:" = "Μη χάσετε μια απάντηση! Ενημερώστε μέσω ηλεκτρονικού ταχυδρομείου:";
+"com.kustomer.example@domain.com" = "example@domain.com";
+"com.kustomer.Type a message..." = "Πληκτρολογήστε ένα μήνυμα ...";
+"com.kustomer.Loading..." = "Φόρτωση...";
+"com.kustomer.CLOSED" = "ΚΛΕΙΣΤΟ";
+"com.kustomer.Start a New Conversation" = "Ξεκινήστε μια νέα συνομιλία";
+"com.kustomer.Thank You! We'll follow up on your request." = "Ευχαριστώ! Θα ακολουθήσουμε το αίτημά σας.";
+"com.kustomer.CHAT HAS ENDED" = "Η συνομιλία έχει λήξει";
+"com.kustomer.END CHAT" = "Τερματισμός συνομιλίας";
+"com.kustomer.Back to chat" = "Επιστροφή στη συζήτηση";
+"com.kustomer.Home" = "Σπίτι";
+"com.kustomer.Please select an item" = "Επιλέξτε ένα στοιχείο";
+"com.kustomer.Leave a message" = "Αφήστε ένα μήνυμα";
+"com.kustomer.Someone should be with you momentarily" = "Κάποιος πρέπει να είναι μαζί σας για λίγο";
+"com.kustomer.upfront_volume_control_alternative_method_question" = "Μπορείτε να επιλέξετε να περιμένετε τον επόμενο διαθέσιμο παράγοντα ή να επιλέξετε μια εναλλακτική λύση επικοινωνήστε μαζί μας για να επικοινωνήσουμε μαζί σας.";
+"com.kustomer.volume_control_alternative_method_question" = "Λυπούμαστε, φαίνεται ότι κανείς δεν είναι διαθέσιμος στο χρόνο που περίμενε. Επιλέξτε μια εναλλακτική μέθοδο επαφής για να ακολουθήσουμε μαζί σας ...";
+"com.kustomer.volume_control_email_question" = "Μεγάλη, ποιο είναι το καλύτερο ηλεκτρονικό μήνυμα για να σας φτάσω;";
+"com.kustomer.volume_control_phone_question" = "Μεγάλη, ποιος είναι ο καλύτερος αριθμός τηλεφώνου για να σας φτάσει;";
+"com.kustomer.volume_control_thankyou_response" = "Ευχαριστώ. Θα σας επιστρέψουμε σύντομα.";
+"com.kustomer.Submit" = "υποβάλλουν";
+"com.kustomer.feedback_thankyou" = "Ευχαριστούμε για την ανταπόκρισή σας!";
+"com.kustomer.Edit" = "Επεξεργασία";
+"com.kustomer.chat_with_param" = "Συνομιλήστε με το %@";
+"com.kustomer.your_expected_wait_time_is_param_second" = "Ο αναμενόμενος χρόνος αναμονής είναι %@ δευτερόλεπτο";
+"com.kustomer.your_expected_wait_time_is_param_seconds" = "Ο αναμενόμενος χρόνος αναμονής είναι %@ δευτερόλεπτα";
+"com.kustomer.your_expected_wait_time_is_param_minute" = "Ο αναμενόμενος χρόνος αναμονής είναι %@ λεπτό";
+"com.kustomer.your_expected_wait_time_is_param_minutes" = "Ο αναμενόμενος χρόνος αναμονής είναι %@ λεπτά";
+"com.kustomer.your_expected_wait_time_is_param_hour" = "Ο αναμενόμενος χρόνος αναμονής είναι %@ ώρα";
+"com.kustomer.your_expected_wait_time_is_param_hours" = "Ο αναμενόμενος χρόνος αναμονής είναι %@ ώρες";
+"com.kustomer.your_expected_wait_time_is_greater_than_one_day" = "Ο αναμενόμενος χρόνος αναμονής είναι μεγαλύτερος από μία ημέρα";
+"com.kustomer.our_expected_wait_time_is_approximately_param_second" = "Ο τρέχων χρόνος αναμονής είναι περίπου %@ δευτερόλεπτο";
+"com.kustomer.our_expected_wait_time_is_approximately_param_seconds" = "Ο τρέχων χρόνος αναμονής είναι περίπου %@ δευτερόλεπτα";
+"com.kustomer.our_expected_wait_time_is_approximately_param_minute" = "Ο τρέχων χρόνος αναμονής είναι περίπου %@ λεπτό";
+"com.kustomer.our_expected_wait_time_is_approximately_param_minutes" = "Ο τρέχων χρόνος αναμονής είναι περίπου %@ λεπτά";
+"com.kustomer.our_expected_wait_time_is_approximately_param_hour" = "Ο τρέχων χρόνος αναμονής είναι περίπου %@ ώρα";
+"com.kustomer.our_expected_wait_time_is_approximately_param_hours" = "Ο τρέχων χρόνος αναμονής είναι περίπου %@ ώρες";
+"com.kustomer.our_expected_wait_time_is_approximately_greater_than_one_day" = "Ο τρέχων χρόνος αναμονής είναι περίπου μεγαλύτερος από μία ημέρα";
+"com.kustomer.param_minute_ago" = "Πριν από %@ λεπτό";
+"com.kustomer.param_minutes_ago" = "Πριν από %@ λεπτά";
+"com.kustomer.param_hour_ago" = "Πριν από %@ ώρα";
+"com.kustomer.param_hours_ago" = "πριν %@ ώρες";
+"com.kustomer.param_day_ago" = "%@ ημέρα πριν";
+"com.kustomer.param_days_ago" = "%@ μέρες πριν";
+"com.kustomer.param_week_ago" = "Πριν από %@ εβδομάδα";
+"com.kustomer.param_weeks_ago" = "πριν %@ εβδομάδες";

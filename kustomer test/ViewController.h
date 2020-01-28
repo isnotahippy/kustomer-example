@@ -1,9 +1,9 @@
 //
 //  ViewController.h
-//  kustomer test
+//  KustomerExample
 //
-//  Created by Graeme Maciver on 28/01/2020.
-//  Copyright © 2020 Graeme Maciver. All rights reserved.
+//  Created by Daniel Amitay on 7/1/17.
+//  Copyright © 2017 Kustomer. All rights reserved.
 //
 
 #import <UIKit/UIKit.h>

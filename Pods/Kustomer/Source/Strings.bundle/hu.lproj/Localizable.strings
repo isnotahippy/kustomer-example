@@ -1,0 +1,62 @@
+/* 
+  Localizable.strings
+  Kustomer
+
+  Created by Hunain Shahid on 03/05/2018.
+  Copyright © 2018 Kustomer. All rights reserved.
+*/
+
+
+"com.kustomer.Just now" = "Pont most";
+"com.kustomer.Attachment" = "Attachment";
+"com.kustomer.Camera" = "Kamera";
+"com.kustomer.Photo Library" = "Fotótár";
+"com.kustomer.Cancel" = "Megszünteti";
+"com.kustomer.Something went wrong. Please try again." = "Valami elromlott. Kérlek próbáld újra.";
+"com.kustomer.Try Again" = "Próbáld újra";
+"com.kustomer.New Conversation" = "Új beszélgetés";
+"com.kustomer.Don't miss a response! Get notified by email:" = "Ne hagyja ki a választ! E-mailben értesítést kap:";
+"com.kustomer.example@domain.com" = "example@domain.com";
+"com.kustomer.Type a message..." = "Írjon be egy üzenetet ...";
+"com.kustomer.Loading..." = "Betöltés...";
+"com.kustomer.CLOSED" = "ZÁRVA";
+"com.kustomer.Start a New Conversation" = "Új beszélgetés indítása";
+"com.kustomer.Thank You! We'll follow up on your request." = "Köszönöm! Követjük a kérését.";
+"com.kustomer.CHAT HAS ENDED" = "A csevegés befejeződött";
+"com.kustomer.END CHAT" = "Csevegés befejezése";
+"com.kustomer.Back to chat" = "Vissza a csevegésre";
+"com.kustomer.Home" = "itthon";
+"com.kustomer.Please select an item" = "Kérjük, válasszon ki egy elemet";
+"com.kustomer.Leave a message" = "Hagyjon üzenetet";
+"com.kustomer.Someone should be with you momentarily" = "Valaki pillanatok alatt veled kell lennie";
+"com.kustomer.upfront_volume_control_alternative_method_question" = "Kiválaszthatja, hogy megvárja a következő rendelkezésre álló ügynököt, vagy válasszon alternatívát kapcsolat módja számunkra, hogy kövesse veled.";
+"com.kustomer.volume_control_alternative_method_question" = "Sajnálom, úgy tűnik, hogy senki sem érkezett a várt időpontban. Kérjük, válasszon ki egy alternatív kapcsolattartási módszert, hogy követhessünk veled ...";
+"com.kustomer.volume_control_email_question" = "Nagyszerű, mi a legjobb e-mail, amivel elérheted?";
+"com.kustomer.volume_control_phone_question" = "Nagyszerű, mi a legjobb telefonszám, amivel elérheted?";
+"com.kustomer.volume_control_thankyou_response" = "Köszönöm. Rövidesen visszajutunk hozzánk.";
+"com.kustomer.Submit" = "beküldése";
+"com.kustomer.feedback_thankyou" = "Köszönjük a visszajelzést!";
+"com.kustomer.Edit" = "szerkesztése";
+"com.kustomer.chat_with_param" = "Beszélj a %@-szel";
+"com.kustomer.your_expected_wait_time_is_param_second" = "A várt várakozási idő %@ másodperc";
+"com.kustomer.your_expected_wait_time_is_param_seconds" = "A várt várakozási idő %@ másodperc";
+"com.kustomer.your_expected_wait_time_is_param_minute" = "A várt várakozási idő %@ perc";
+"com.kustomer.your_expected_wait_time_is_param_minutes" = "A várt várakozási idő %@ perc";
+"com.kustomer.your_expected_wait_time_is_param_hour" = "A várt várakozási idő %@ óra";
+"com.kustomer.your_expected_wait_time_is_param_hours" = "A várt várakozási idő %@ óra";
+"com.kustomer.your_expected_wait_time_is_greater_than_one_day" = "A várt várakozási idő nagyobb, mint egy nap";
+"com.kustomer.our_expected_wait_time_is_approximately_param_second" = "Jelenlegi várakozási idő kb. %@ másodperc";
+"com.kustomer.our_expected_wait_time_is_approximately_param_seconds" = "Jelenlegi várakozási időünk körülbelül %@ másodperc";
+"com.kustomer.our_expected_wait_time_is_approximately_param_minute" = "Jelenlegi várakozási idő kb. %@ perc";
+"com.kustomer.our_expected_wait_time_is_approximately_param_minutes" = "Jelenlegi várakozási időünk körülbelül %@ perc";
+"com.kustomer.our_expected_wait_time_is_approximately_param_hour" = "Jelenlegi várakozási idő kb. %@ óra";
+"com.kustomer.our_expected_wait_time_is_approximately_param_hours" = "Jelenlegi várakozási időünk körülbelül %@ óra";
+"com.kustomer.our_expected_wait_time_is_approximately_greater_than_one_day" = "Jelenlegi várakozási idő körülbelül egy napnál hosszabb";
+"com.kustomer.param_minute_ago" = "%@ perccel ezelőtt";
+"com.kustomer.param_minutes_ago" = "%@ perce";
+"com.kustomer.param_hour_ago" = "%@ órával ezelőtt";
+"com.kustomer.param_hours_ago" = "%@ órával ezelőtt";
+"com.kustomer.param_day_ago" = "%@ napja";
+"com.kustomer.param_days_ago" = "%@ napja";
+"com.kustomer.param_week_ago" = "%@ hete";
+"com.kustomer.param_weeks_ago" = "%@ héttel ezelőtt";

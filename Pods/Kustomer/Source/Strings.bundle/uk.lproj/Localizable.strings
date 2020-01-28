@@ -1,0 +1,62 @@
+/* 
+  Localizable.strings
+  Kustomer
+
+  Created by Hunain Shahid on 03/05/2018.
+  Copyright © 2018 Kustomer. All rights reserved.
+*/
+
+
+"com.kustomer.Just now" = "Прямо зараз";
+"com.kustomer.Attachment" = "Вкладення";
+"com.kustomer.Camera" = "Камера";
+"com.kustomer.Photo Library" = "Фото бібліотека";
+"com.kustomer.Cancel" = "Скасувати";
+"com.kustomer.Something went wrong. Please try again." = "Щось пішло не так. Будь ласка спробуйте ще раз.";
+"com.kustomer.Try Again" = "Спробуй ще раз";
+"com.kustomer.New Conversation" = "Нова розмова";
+"com.kustomer.Don't miss a response! Get notified by email:" = "Не пропустіть відповідь! Отримати сповіщення електронною поштою:";
+"com.kustomer.example@domain.com" = "example@domain.com";
+"com.kustomer.Type a message..." = "Введіть повідомлення ...";
+"com.kustomer.Loading..." = "Завантаження ...";
+"com.kustomer.CLOSED" = "ЗАЧИНЕНО";
+"com.kustomer.Start a New Conversation" = "Почніть нову бесіду";
+"com.kustomer.Thank You! We'll follow up on your request." = "Дякую! Ми розглянемо ваш запит.";
+"com.kustomer.CHAT HAS ENDED" = "Чат закінчився";
+"com.kustomer.END CHAT" = "Завершити чат";
+"com.kustomer.Back to chat" = "Повернутися до чату";
+"com.kustomer.Home" = "Будинок";
+"com.kustomer.Please select an item" = "Будь ласка, виберіть предмет";
+"com.kustomer.Leave a message" = "Залишити повідомлення";
+"com.kustomer.Someone should be with you momentarily" = "Хтось повинен бути з вами на мить";
+"com.kustomer.upfront_volume_control_alternative_method_question" = "Ви можете вибрати очікування наступного доступного агента або вибрати альтернативу контактний спосіб, щоб ми могли піти з вами.";
+"com.kustomer.volume_control_alternative_method_question" = "Вибачте, як ніколи не було доступно в той час, коли ми очікували. Будь-ласка, виберіть альтернативний метод контакту, щоб ми могли піти з вами ...";
+"com.kustomer.volume_control_email_question" = "Відмінно, який найкращий лист для вас?";
+"com.kustomer.volume_control_phone_question" = "Чудово, який найкращий номер телефону для вас?";
+"com.kustomer.volume_control_thankyou_response" = "Дякую. Ми скоро повернемося до вас.";
+"com.kustomer.Submit" = "уявити";
+"com.kustomer.feedback_thankyou" = "Спасибі за ваш відгук!";
+"com.kustomer.Edit" = "редагувати";
+"com.kustomer.chat_with_param" = "Чат з %@";
+"com.kustomer.your_expected_wait_time_is_param_second" = "Очікуваний час очікування - %@ секунда";
+"com.kustomer.your_expected_wait_time_is_param_seconds" = "Очікуваний час очікування - %@ секунди";
+"com.kustomer.your_expected_wait_time_is_param_minute" = "Ɛwɔ sԑ wotwԑn bԑyԑ simma baako";
+"com.kustomer.your_expected_wait_time_is_param_minutes" = "Очікуваний час очікування - %@ хвилини";
+"com.kustomer.your_expected_wait_time_is_param_hour" = "Очікуваний час очікування - %@ година";
+"com.kustomer.your_expected_wait_time_is_param_hours" = "Очікуваний час очікування - %@ години";
+"com.kustomer.your_expected_wait_time_is_greater_than_one_day" = "Ваш очікуваний час очікування перевищує один день";
+"com.kustomer.our_expected_wait_time_is_approximately_param_second" = "Наш поточний час очікування становить приблизно %@ секунду";
+"com.kustomer.our_expected_wait_time_is_approximately_param_seconds" = "Наш поточний час очікування - приблизно %@ секунди";
+"com.kustomer.our_expected_wait_time_is_approximately_param_minute" = "Наш поточний час очікування становить приблизно %@ хвилину";
+"com.kustomer.our_expected_wait_time_is_approximately_param_minutes" = "Наш поточний час очікування - приблизно %@ хвилини";
+"com.kustomer.our_expected_wait_time_is_approximately_param_hour" = "Наш поточний час очікування складає приблизно %@ годину";
+"com.kustomer.our_expected_wait_time_is_approximately_param_hours" = "Наш поточний час очікування - приблизно %@ години";
+"com.kustomer.our_expected_wait_time_is_approximately_greater_than_one_day" = "Наш поточний час очікування приблизно більше, ніж один день";
+"com.kustomer.param_minute_ago" = "%@ хвилина тому";
+"com.kustomer.param_minutes_ago" = "%@ хвилини тому";
+"com.kustomer.param_hour_ago" = "%@ годину тому";
+"com.kustomer.param_hours_ago" = "%@ години тому";
+"com.kustomer.param_day_ago" = "%@ день тому";
+"com.kustomer.param_days_ago" = "%@ дні тому";
+"com.kustomer.param_week_ago" = "%@ тиждень тому";
+"com.kustomer.param_weeks_ago" = "%@ тижні тому";

@@ -1,0 +1,62 @@
+/* 
+  Localizable.strings
+  Kustomer
+
+  Created by Hunain Shahid on 03/05/2018.
+  Copyright © 2018 Kustomer. All rights reserved.
+*/
+
+
+"com.kustomer.Just now" = "现在";
+"com.kustomer.Attachment" = "附件";
+"com.kustomer.Camera" = "相机";
+"com.kustomer.Photo Library" = "照片库";
+"com.kustomer.Cancel" = "取消";
+"com.kustomer.Something went wrong. Please try again." = "出了些问题。请再试一次。";
+"com.kustomer.Try Again" = "再试一次";
+"com.kustomer.New Conversation" = "新对话";
+"com.kustomer.Don't miss a response! Get notified by email:" = "不要错过回应！通过电子邮件获取通知";
+"com.kustomer.example@domain.com" = "example@domain.com";
+"com.kustomer.Type a message..." = "输入消息...";
+"com.kustomer.Loading..." = "载入中...";
+"com.kustomer.CLOSED" = "关闭";
+"com.kustomer.Start a New Conversation" = "开始新的对话";
+"com.kustomer.Thank You! We'll follow up on your request." = "谢谢！我们会跟进您的请求。";
+"com.kustomer.CHAT HAS ENDED" = "聊天已经结束";
+"com.kustomer.END CHAT" = "结束聊天";
+"com.kustomer.Back to chat" = "回去聊天";
+"com.kustomer.Home" = "家";
+"com.kustomer.Please select an item" = "请选择一个项目";
+"com.kustomer.Leave a message" = "留言";
+"com.kustomer.Someone should be with you momentarily" = "有人应该和你在一起";
+"com.kustomer.upfront_volume_control_alternative_method_question" = "您可以选择等待下一个可用代理或选择其他代理 联系方式让我们跟进你。";
+"com.kustomer.volume_control_alternative_method_question" = "对不起，在我们预期的时间里似乎没有人可用。请选择其他联系方式，以便我们跟进...";
+"com.kustomer.volume_control_email_question" = "太棒了，什么是最好的电子邮件给你？";
+"com.kustomer.volume_control_phone_question" = "很棒，有什么最适合您的电话号码？";
+"com.kustomer.volume_control_thankyou_response" = "谢谢。我们很快就会回复你。";
+"com.kustomer.Submit" = "提交";
+"com.kustomer.feedback_thankyou" = "感谢您的反馈意见！";
+"com.kustomer.Edit" = "编辑";
+"com.kustomer.chat_with_param" = "与%@聊天";
+"com.kustomer.your_expected_wait_time_is_param_second" = "您的预计等待时间是%@秒";
+"com.kustomer.your_expected_wait_time_is_param_seconds" = "您预计的等待时间是%@秒";
+"com.kustomer.your_expected_wait_time_is_param_minute" = "您的预计等待时间是%@分钟";
+"com.kustomer.your_expected_wait_time_is_param_minutes" = "您预计的等待时间是%@分钟";
+"com.kustomer.your_expected_wait_time_is_param_hour" = "您预计的等待时间为%@小时";
+"com.kustomer.your_expected_wait_time_is_param_hours" = "您预计的等待时间为%@小时";
+"com.kustomer.your_expected_wait_time_is_greater_than_one_day" = "您预计的等待时间大于一天";
+"com.kustomer.our_expected_wait_time_is_approximately_param_second" = "我们目前的等待时间约为%@秒";
+"com.kustomer.our_expected_wait_time_is_approximately_param_seconds" = "我们目前的等待时间约为%@秒";
+"com.kustomer.our_expected_wait_time_is_approximately_param_minute" = "我们目前的等待时间约为%@分钟";
+"com.kustomer.our_expected_wait_time_is_approximately_param_minutes" = "我们目前的等待时间约为%@分钟";
+"com.kustomer.our_expected_wait_time_is_approximately_param_hour" = "我们目前的等待时间约为%@小时";
+"com.kustomer.our_expected_wait_time_is_approximately_param_hours" = "我们目前的等待时间约为%@小时";
+"com.kustomer.our_expected_wait_time_is_approximately_greater_than_one_day" = "我们目前的等待时间大约超过一天";
+"com.kustomer.param_minute_ago" = "%@分钟前";
+"com.kustomer.param_minutes_ago" = "%@分钟前";
+"com.kustomer.param_hour_ago" = "%@小时前";
+"com.kustomer.param_hours_ago" = "%@小时前";
+"com.kustomer.param_day_ago" = "%@天前";
+"com.kustomer.param_days_ago" = "%@天前";
+"com.kustomer.param_week_ago" = "%@周前";
+"com.kustomer.param_weeks_ago" = "%@个星期前";

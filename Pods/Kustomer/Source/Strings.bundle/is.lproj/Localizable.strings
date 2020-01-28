@@ -1,0 +1,62 @@
+/* 
+  Localizable.strings
+  Kustomer
+
+  Created by Hunain Shahid on 03/05/2018.
+  Copyright © 2018 Kustomer. All rights reserved.
+*/
+
+
+"com.kustomer.Just now" = "Rétt í þessu";
+"com.kustomer.Attachment" = "Viðhengi";
+"com.kustomer.Camera" = "Myndavél";
+"com.kustomer.Photo Library" = "Photo Library";
+"com.kustomer.Cancel" = "Hætta við";
+"com.kustomer.Something went wrong. Please try again." = "Eitthvað fór úrskeiðis. Vinsamlegast reyndu aftur.";
+"com.kustomer.Try Again" = "Reyndu aftur";
+"com.kustomer.New Conversation" = "Nýtt samtal";
+"com.kustomer.Don't miss a response! Get notified by email:" = "Ekki missa af svari! Fáðu tilkynningu í tölvupósti:";
+"com.kustomer.example@domain.com" = "example@domain.com";
+"com.kustomer.Type a message..." = "Skrifaðu skilaboð ...";
+"com.kustomer.Loading..." = "Hleð inn ...";
+"com.kustomer.CLOSED" = "Lokað";
+"com.kustomer.Start a New Conversation" = "Byrja nýtt samtal";
+"com.kustomer.Thank You! We'll follow up on your request." = "Þakka þér fyrir! Við munum fylgja eftir beiðni þinni.";
+"com.kustomer.CHAT HAS ENDED" = "Spjallið er lokið";
+"com.kustomer.END CHAT" = "Lokaðu spjalli";
+"com.kustomer.Back to chat" = "Aftur í spjall";
+"com.kustomer.Home" = "Heim";
+"com.kustomer.Please select an item" = "Vinsamlegast veldu hlut";
+"com.kustomer.Leave a message" = "Skildu eftir skilaboð";
+"com.kustomer.Someone should be with you momentarily" = "Einhver ætti að vera með þér í augnablikinu";
+"com.kustomer.upfront_volume_control_alternative_method_question" = "Þú getur valið að bíða eftir næsta umboðsmanni eða velja valkost samskiptaaðferð fyrir okkur að fylgja eftir með þér.";
+"com.kustomer.volume_control_alternative_method_question" = "Því miður, það virðist sem enginn hefur orðið laus við þann tíma sem við búumst við. Vinsamlegast veldu aðra samskiptaaðferð til að fylgjast með þér ...";
+"com.kustomer.volume_control_email_question" = "Frábær, hvað er besti tölvupósturinn til að ná þér á?";
+"com.kustomer.volume_control_phone_question" = "Frábær, hvað er besta símanúmerið til að ná þér á?";
+"com.kustomer.volume_control_thankyou_response" = "Þakka þér fyrir. Við munum komast aftur til þín fljótlega.";
+"com.kustomer.Submit" = "Senda inn";
+"com.kustomer.feedback_thankyou" = "Takk fyrir ábendinguna!";
+"com.kustomer.Edit" = "Breyta";
+"com.kustomer.chat_with_param" = "Spjallaðu við %@";
+"com.kustomer.your_expected_wait_time_is_param_second" = "Búist er við biðtíma þínum í %@ sekúndu";
+"com.kustomer.your_expected_wait_time_is_param_seconds" = "Búist er við biðtíma þínum í %@ sekúndur";
+"com.kustomer.your_expected_wait_time_is_param_minute" = "Búist er við biðtíma þínum í %@ mínútu";
+"com.kustomer.your_expected_wait_time_is_param_minutes" = "Búist er við biðtíma þínum í %@ mínútur";
+"com.kustomer.your_expected_wait_time_is_param_hour" = "Búist er við biðtíma þínum %@ klukkustund";
+"com.kustomer.your_expected_wait_time_is_param_hours" = "Búist er við biðtíma þínum %@ klst";
+"com.kustomer.your_expected_wait_time_is_greater_than_one_day" = "Væntanlegur biðtími þinn er meiri en einn dagur";
+"com.kustomer.our_expected_wait_time_is_approximately_param_second" = "Núverandi biðtími okkar er um það bil %@ sekúndu";
+"com.kustomer.our_expected_wait_time_is_approximately_param_seconds" = "Núverandi biðtími okkar er um það bil %@ sekúndur";
+"com.kustomer.our_expected_wait_time_is_approximately_param_minute" = "Núverandi biðtími okkar er um það bil %@ mínútu";
+"com.kustomer.our_expected_wait_time_is_approximately_param_minutes" = "Núverandi biðtími okkar er um það bil %@ mínútur";
+"com.kustomer.our_expected_wait_time_is_approximately_param_hour" = "Núverandi biðtími okkar er um það bil %@ klukkustund";
+"com.kustomer.our_expected_wait_time_is_approximately_param_hours" = "Núverandi biðtími okkar er um það bil %@ klukkustundir";
+"com.kustomer.our_expected_wait_time_is_approximately_greater_than_one_day" = "Núverandi biðtími okkar er um það bil stærri en ein dagur";
+"com.kustomer.param_minute_ago" = "Fyrir %@ mínútu";
+"com.kustomer.param_minutes_ago" = "%@ mínútum síðan";
+"com.kustomer.param_hour_ago" = "%@ klukkustund síðan";
+"com.kustomer.param_hours_ago" = "%@ klukkustundum síðan";
+"com.kustomer.param_day_ago" = "Fyrir %@ degi síðan";
+"com.kustomer.param_days_ago" = "fyrir %@ dögum";
+"com.kustomer.param_week_ago" = "Fyrir %@ viku síðan";
+"com.kustomer.param_weeks_ago" = "Fyrir %@ vikum";

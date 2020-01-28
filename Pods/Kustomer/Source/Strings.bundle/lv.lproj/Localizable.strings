@@ -1,0 +1,62 @@
+/* 
+  Localizable.strings
+  Kustomer
+
+  Created by Hunain Shahid on 03/05/2018.
+  Copyright © 2018 Kustomer. All rights reserved.
+*/
+
+
+"com.kustomer.Just now" = "Tikko";
+"com.kustomer.Attachment" = "Pielikums";
+"com.kustomer.Camera" = "Kamera";
+"com.kustomer.Photo Library" = "Fotoattēlu bibliotēka";
+"com.kustomer.Cancel" = "Atcelt";
+"com.kustomer.Something went wrong. Please try again." = "Kaut kas nogāja greizi. Lūdzu mēģiniet vēlreiz.";
+"com.kustomer.Try Again" = "Mēģini vēlreiz";
+"com.kustomer.New Conversation" = "Jauna saruna";
+"com.kustomer.Don't miss a response! Get notified by email:" = "Nepalaidiet garām atbildi! Saņemiet paziņojumu pa e-pastu:";
+"com.kustomer.example@domain.com" = "example@domain.com";
+"com.kustomer.Type a message..." = "Ierakstiet ziņojumu ...";
+"com.kustomer.Loading..." = "Ielādē ...";
+"com.kustomer.CLOSED" = "Slēgts";
+"com.kustomer.Start a New Conversation" = "Sāciet jaunu sarunu";
+"com.kustomer.Thank You! We'll follow up on your request." = "Paldies! Mēs veiksim jūsu pieprasījumu.";
+"com.kustomer.CHAT HAS ENDED" = "Tērzēšana ir beigusies";
+"com.kustomer.END CHAT" = "Beigt tērzēšanu";
+"com.kustomer.Back to chat" = "Atpakaļ uz tērzēšanu";
+"com.kustomer.Home" = "Mājas";
+"com.kustomer.Please select an item" = "Lūdzu, atlasiet vienumu";
+"com.kustomer.Leave a message" = "Atstāj ziņu";
+"com.kustomer.Someone should be with you momentarily" = "Kādam jābūt īslaicīgam ar tevi";
+"com.kustomer.upfront_volume_control_alternative_method_question" = "Jūs varat izvēlēties gaidīt nākamo pieejamo aģentu vai izvēlēties alternatīvu sazinieties ar mums, lai sekotu līdzi jums.";
+"com.kustomer.volume_control_alternative_method_question" = "Diemžēl šķiet, ka gaidāmajā brīdī neviens nav kļuvis pieejams. Lūdzu, izvēlieties alternatīvu kontaktu metodi, lai mēs varētu jums sekot ...";
+"com.kustomer.volume_control_email_question" = "Lieliski, kāds ir labākais e-pasts, lai jūs varētu sazināties?";
+"com.kustomer.volume_control_phone_question" = "Lieliski, kāds ir labākais tālruņa numurs, lai jūs varētu sazināties?";
+"com.kustomer.volume_control_thankyou_response" = "Paldies. Mēs tuvākajā laikā atgriezīsimies pie jums.";
+"com.kustomer.Submit" = "Iesniegt";
+"com.kustomer.feedback_thankyou" = "Paldies par jūsu atsauksmēm!";
+"com.kustomer.Edit" = "rediģēt";
+"com.kustomer.chat_with_param" = "Tērzējiet ar %@";
+"com.kustomer.your_expected_wait_time_is_param_second" = "Jūsu paredzamais gaidīšanas laiks ir %@ sekunde";
+"com.kustomer.your_expected_wait_time_is_param_seconds" = "Jūsu paredzamais gaidīšanas laiks ir %@ sekundes";
+"com.kustomer.your_expected_wait_time_is_param_minute" = "Jūsu paredzamais gaidīšanas laiks ir %@ minūte";
+"com.kustomer.your_expected_wait_time_is_param_minutes" = "Jūsu paredzamais gaidīšanas laiks ir %@ minūtes";
+"com.kustomer.your_expected_wait_time_is_param_hour" = "Jūsu paredzamais gaidīšanas laiks ir %@ stunda";
+"com.kustomer.your_expected_wait_time_is_param_hours" = "Jūsu paredzamais gaidīšanas laiks ir %@ stundas";
+"com.kustomer.your_expected_wait_time_is_greater_than_one_day" = "Jūsu paredzamais gaidīšanas laiks ir lielāks par vienu dienu";
+"com.kustomer.our_expected_wait_time_is_approximately_param_second" = "Mūsu pašreizējais gaidīšanas laiks ir aptuveni %@ sekunde";
+"com.kustomer.our_expected_wait_time_is_approximately_param_seconds" = "Mūsu pašreizējais gaidīšanas laiks ir aptuveni %@ sekundes";
+"com.kustomer.our_expected_wait_time_is_approximately_param_minute" = "Mūsu pašreizējais gaidīšanas laiks ir aptuveni %@ minūte";
+"com.kustomer.our_expected_wait_time_is_approximately_param_minutes" = "Mūsu pašreizējais gaidīšanas laiks ir aptuveni %@ minūtes";
+"com.kustomer.our_expected_wait_time_is_approximately_param_hour" = "Mūsu pašreizējais gaidīšanas laiks ir aptuveni %@ stunda";
+"com.kustomer.our_expected_wait_time_is_approximately_param_hours" = "Mūsu pašreizējais gaidīšanas laiks ir aptuveni %@ stundas";
+"com.kustomer.our_expected_wait_time_is_approximately_greater_than_one_day" = "Mūsu pašreizējais gaidīšanas laiks ir aptuveni par vienu dienu";
+"com.kustomer.param_minute_ago" = "Pirms %@ minūtes";
+"com.kustomer.param_minutes_ago" = "Pirms %@ minūtēm";
+"com.kustomer.param_hour_ago" = "Pirms %@ stundas";
+"com.kustomer.param_hours_ago" = "Pirms %@ stundām";
+"com.kustomer.param_day_ago" = "Pirms %@ dienas";
+"com.kustomer.param_days_ago" = "pirms %@ dienām";
+"com.kustomer.param_week_ago" = "Pirms %@ nedēļas";
+"com.kustomer.param_weeks_ago" = "pirms %@ nedēļām";

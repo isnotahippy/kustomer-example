@@ -1,0 +1,62 @@
+/* 
+  Localizable.strings
+  Kustomer
+
+  Created by Hunain Shahid on 03/05/2018.
+  Copyright © 2018 Kustomer. All rights reserved.
+*/
+
+
+"com.kustomer.Just now" = "Juste maintenant";
+"com.kustomer.Attachment" = "Attachement";
+"com.kustomer.Camera" = "Caméra";
+"com.kustomer.Photo Library" = "Galerie de photos";
+"com.kustomer.Cancel" = "Annuler";
+"com.kustomer.Something went wrong. Please try again." = "Quelque chose s'est mal passé. Veuillez réessayer.";
+"com.kustomer.Try Again" = "Réessayer";
+"com.kustomer.New Conversation" = "Nouvelle conversation";
+"com.kustomer.Don't miss a response! Get notified by email:" = "Ne manquez pas une réponse! Recevez une notification par email:";
+"com.kustomer.example@domain.com" = "example@domain.com";
+"com.kustomer.Type a message..." = "Tapez un message ...";
+"com.kustomer.Loading..." = "Chargement...";
+"com.kustomer.CLOSED" = "FERMÉ";
+"com.kustomer.Start a New Conversation" = "Démarrer une nouvelle conversation";
+"com.kustomer.Thank You! We'll follow up on your request." = "Je vous remercie! Nous suivrons votre demande.";
+"com.kustomer.CHAT HAS ENDED" = "Le chat est terminé";
+"com.kustomer.END CHAT" = "TERMINER LE CHAT";
+"com.kustomer.Back to chat" = "Retour au chat";
+"com.kustomer.Home" = "Accueil";
+"com.kustomer.Please select an item" = "Veuillez sélectionner un article";
+"com.kustomer.Leave a message" = "Laisser un message";
+"com.kustomer.Someone should be with you momentarily" = "Quelqu'un devrait être avec vous momentanément";
+"com.kustomer.upfront_volume_control_alternative_method_question" = "Vous pouvez choisir d'attendre le prochain agent disponible ou sélectionner un autre agent. méthode de contact pour nous de suivi avec vous.";
+"com.kustomer.volume_control_alternative_method_question" = "Désolé, il semble que personne ne soit devenu disponible dans les délais prévus. Veuillez sélectionner une autre méthode de contact pour que nous puissions faire un suivi avec vous…";
+"com.kustomer.volume_control_email_question" = "Génial, quel est le meilleur email pour vous contacter?";
+"com.kustomer.volume_control_phone_question" = "Génial, quel est le meilleur numéro de téléphone pour vous joindre?";
+"com.kustomer.volume_control_thankyou_response" = "Je vous remercie. Nous reviendrons vers vous sous peu.";
+"com.kustomer.Submit" = "Soumettre";
+"com.kustomer.feedback_thankyou" = "Merci pour votre avis!";
+"com.kustomer.Edit" = "modifier";
+"com.kustomer.chat_with_param" = "Discuter avec %@";
+"com.kustomer.your_expected_wait_time_is_param_second" = "Votre temps d'attente prévu est de %@ seconde";
+"com.kustomer.your_expected_wait_time_is_param_seconds" = "Votre temps d'attente prévu est de %@ secondes";
+"com.kustomer.your_expected_wait_time_is_param_minute" = "Votre temps d'attente prévu est de %@ minute";
+"com.kustomer.your_expected_wait_time_is_param_minutes" = "Votre temps d'attente prévu est de %@ minutes";
+"com.kustomer.your_expected_wait_time_is_param_hour" = "Votre temps d'attente prévu est de %@ heure";
+"com.kustomer.your_expected_wait_time_is_param_hours" = "Votre temps d'attente prévu est de %@ heures";
+"com.kustomer.your_expected_wait_time_is_greater_than_one_day" = "Votre temps d'attente prévu est supérieur à un jour";
+"com.kustomer.our_expected_wait_time_is_approximately_param_second" = "Notre temps d'attente actuel est d'environ %@ seconde";
+"com.kustomer.our_expected_wait_time_is_approximately_param_seconds" = "Notre temps d'attente actuel est d'environ %@ secondes";
+"com.kustomer.our_expected_wait_time_is_approximately_param_minute" = "Notre temps d'attente actuel est d'environ %@ minute";
+"com.kustomer.our_expected_wait_time_is_approximately_param_minutes" = "Notre temps d'attente actuel est d'environ %@ minutes";
+"com.kustomer.our_expected_wait_time_is_approximately_param_hour" = "Notre temps d'attente actuel est d'environ %@ heure";
+"com.kustomer.our_expected_wait_time_is_approximately_param_hours" = "Notre temps d'attente actuel est d'environ %@ heures";
+"com.kustomer.our_expected_wait_time_is_approximately_greater_than_one_day" = "Notre temps d'attente actuel est approximativement supérieur à un jour";
+"com.kustomer.param_minute_ago" = "il y a %@ minute";
+"com.kustomer.param_minutes_ago" = "Il y a %@ minutes";
+"com.kustomer.param_hour_ago" = "Il ya %@ heure";
+"com.kustomer.param_hours_ago" = "il y a %@ heures";
+"com.kustomer.param_day_ago" = "il y a %@ jour";
+"com.kustomer.param_days_ago" = "il y a %@ jours";
+"com.kustomer.param_week_ago" = "Il ya %@ semaine";
+"com.kustomer.param_weeks_ago" = "Il y a %@ semaines";

@@ -1,0 +1,62 @@
+/* 
+  Localizable.strings
+  Kustomer
+
+  Created by Hunain Shahid on 03/05/2018.
+  Copyright © 2018 Kustomer. All rights reserved.
+*/
+
+
+"com.kustomer.Just now" = "ตอนนี้";
+"com.kustomer.Attachment" = "ความผูกพัน";
+"com.kustomer.Camera" = "กล้อง";
+"com.kustomer.Photo Library" = "ห้องสมุดรูปภาพ";
+"com.kustomer.Cancel" = "ยกเลิก";
+"com.kustomer.Something went wrong. Please try again." = "บางอย่างผิดพลาด. กรุณาลองอีกครั้ง.";
+"com.kustomer.Try Again" = "ลองอีกครั้ง";
+"com.kustomer.New Conversation" = "การสนทนาใหม่";
+"com.kustomer.Don't miss a response! Get notified by email:" = "อย่าพลาดการตอบสนอง! รับแจ้งทางอีเมลล์:";
+"com.kustomer.example@domain.com" = "example@domain.com";
+"com.kustomer.Type a message..." = "พิมพ์ข้อความ ...";
+"com.kustomer.Loading..." = "กำลังโหลด ...";
+"com.kustomer.CLOSED" = "ปิด";
+"com.kustomer.Start a New Conversation" = "เริ่มการสนทนาใหม่";
+"com.kustomer.Thank You! We'll follow up on your request." = "ขอขอบคุณ! เราจะติดตามคำขอของคุณต่อ";
+"com.kustomer.CHAT HAS ENDED" = "แชทสิ้นสุดลงแล้ว";
+"com.kustomer.END CHAT" = "สิ้นสุดการแชท";
+"com.kustomer.Back to chat" = "กลับไปแชท";
+"com.kustomer.Home" = "บ้าน";
+"com.kustomer.Please select an item" = "โปรดเลือกรายการ";
+"com.kustomer.Leave a message" = "ฝากข้อความ";
+"com.kustomer.Someone should be with you momentarily" = "บางคนควรอยู่กับคุณชั่วขณะ";
+"com.kustomer.upfront_volume_control_alternative_method_question" = "คุณสามารถเลือกที่จะรอตัวแทนที่มีอยู่ถัดไปหรือเลือกทางเลือกอื่น ติดต่อเราเพื่อติดตามผลกับคุณ";
+"com.kustomer.volume_control_alternative_method_question" = "ขออภัยดูเหมือนว่าไม่มีใครสามารถใช้งานได้ในเวลาที่เราคาดหวัง โปรดเลือกวิธีการติดต่ออื่นเพื่อให้เราติดตามผลกับคุณ ...";
+"com.kustomer.volume_control_email_question" = "อะไรดีอีเมลที่ดีที่สุดในการติดต่อคุณคืออะไร";
+"com.kustomer.volume_control_phone_question" = "หมายเลขโทรศัพท์ที่ดีที่สุดในการติดต่อคุณคืออะไร?";
+"com.kustomer.volume_control_thankyou_response" = "ขอบคุณ. เราจะติดต่อกลับโดยเร็วที่สุด";
+"com.kustomer.Submit" = "เสนอ";
+"com.kustomer.feedback_thankyou" = "ขอบคุณสำหรับความคิดเห็นของคุณ!";
+"com.kustomer.Edit" = "แก้ไข";
+"com.kustomer.chat_with_param" = "แชทกับ %@";
+"com.kustomer.your_expected_wait_time_is_param_second" = "เวลารอที่คาดหวังของคุณคือ %@ วินาที";
+"com.kustomer.your_expected_wait_time_is_param_seconds" = "เวลารอที่คาดหวังของคุณคือ %@ วินาที";
+"com.kustomer.your_expected_wait_time_is_param_minute" = "เวลารอที่คาดหวังของคุณคือ %@ นาที";
+"com.kustomer.your_expected_wait_time_is_param_minutes" = "เวลารอที่คาดหวังของคุณคือ %@ นาที";
+"com.kustomer.your_expected_wait_time_is_param_hour" = "เวลารอที่คาดหวังของคุณคือ %@ ชั่วโมง";
+"com.kustomer.your_expected_wait_time_is_param_hours" = "เวลารอที่คาดหวังของคุณคือ %@ ชั่วโมง";
+"com.kustomer.your_expected_wait_time_is_greater_than_one_day" = "เวลารอที่คาดหวังของคุณมากกว่าหนึ่งวัน";
+"com.kustomer.our_expected_wait_time_is_approximately_param_second" = "เวลารอปัจจุบันของเราประมาณ %@ วินาที";
+"com.kustomer.our_expected_wait_time_is_approximately_param_seconds" = "เวลารอปัจจุบันของเราประมาณ %@ วินาที";
+"com.kustomer.our_expected_wait_time_is_approximately_param_minute" = "เวลารอปัจจุบันของเราประมาณ %@ นาที";
+"com.kustomer.our_expected_wait_time_is_approximately_param_minutes" = "เวลารอปัจจุบันของเราประมาณ %@ นาที";
+"com.kustomer.our_expected_wait_time_is_approximately_param_hour" = "เวลารอปัจจุบันของเราประมาณ %@ ชั่วโมง";
+"com.kustomer.our_expected_wait_time_is_approximately_param_hours" = "เวลารอปัจจุบันของเราประมาณ %@ ชั่วโมง";
+"com.kustomer.our_expected_wait_time_is_approximately_greater_than_one_day" = "เวลารอปัจจุบันของเราประมาณมากกว่าหนึ่งวัน";
+"com.kustomer.param_minute_ago" = "%@ นาทีที่ผ่านมา";
+"com.kustomer.param_minutes_ago" = "%@ นาทีที่ผ่านมา";
+"com.kustomer.param_hour_ago" = "%@ ชั่วโมงที่แล้ว";
+"com.kustomer.param_hours_ago" = "%@ ชั่วโมงที่แล้ว";
+"com.kustomer.param_day_ago" = "%@ วันที่แล้ว";
+"com.kustomer.param_days_ago" = "%@ วันที่แล้ว";
+"com.kustomer.param_week_ago" = "%@ สัปดาห์ที่ผ่านมา";
+"com.kustomer.param_weeks_ago" = "%@ สัปดาห์ที่แล้ว";

@@ -1,0 +1,62 @@
+/* 
+  Localizable.strings
+  Kustomer
+
+  Created by Hunain Shahid on 03/05/2018.
+  Copyright © 2018 Kustomer. All rights reserved.
+*/
+
+
+"com.kustomer.Just now" = "Tani";
+"com.kustomer.Attachment" = "Attachment";
+"com.kustomer.Camera" = "aparat fotografik";
+"com.kustomer.Photo Library" = "Biblioteka e Fotografive";
+"com.kustomer.Cancel" = "anuloj";
+"com.kustomer.Something went wrong. Please try again." = "Dicka shkoi keq. Ju lutemi provoni përsëri.";
+"com.kustomer.Try Again" = "Provo përsëri";
+"com.kustomer.New Conversation" = "Biseda e re";
+"com.kustomer.Don't miss a response! Get notified by email:" = "Mos humbisni një përgjigje! Merrni njoftimin me email:";
+"com.kustomer.example@domain.com" = "example@domain.com";
+"com.kustomer.Type a message..." = "Shkruaj një mesazh ...";
+"com.kustomer.Loading..." = "Loading ...";
+"com.kustomer.CLOSED" = "MBYLLUR";
+"com.kustomer.Start a New Conversation" = "Filloni një bisedë të re";
+"com.kustomer.Thank You! We'll follow up on your request." = "Faleminderit! Ne do të ndjekim kërkesën tuaj.";
+"com.kustomer.CHAT HAS ENDED" = "Biseda ka përfunduar";
+"com.kustomer.END CHAT" = "End Chat";
+"com.kustomer.Back to chat" = "Kthehu në chat";
+"com.kustomer.Home" = "shtëpi";
+"com.kustomer.Please select an item" = "Ju lutemi zgjidhni një artikull";
+"com.kustomer.Leave a message" = "Lini një mesazh";
+"com.kustomer.Someone should be with you momentarily" = "Dikush duhet të jetë me ju momentalisht";
+"com.kustomer.upfront_volume_control_alternative_method_question" = "Ju mund të zgjidhni të prisni agjentin tjetër në dispozicion ose zgjidhni një alternativë Metoda e kontaktit për ne që të përcjellim me ju.";
+"com.kustomer.volume_control_alternative_method_question" = "Na vjen keq, duket sikur askush nuk është vënë në dispozicion në kohën që prisnim. Ju lutemi zgjidhni një metodë alternative të kontaktit për ne për të ndjekur me ju ...";
+"com.kustomer.volume_control_email_question" = "E madhe, cila është e-mailja më e mirë për të arritur tek ju?";
+"com.kustomer.volume_control_phone_question" = "E madhe, cili është numri më i mirë i telefonit për të arritur tek ju?";
+"com.kustomer.volume_control_thankyou_response" = "Faleminderit. Ne do të kthehemi tek ju së shpejti.";
+"com.kustomer.Submit" = "paraqes";
+"com.kustomer.feedback_thankyou" = "Faleminderit për komentin tuaj!";
+"com.kustomer.Edit" = "redaktoj";
+"com.kustomer.chat_with_param" = "Bisedo me %@";
+"com.kustomer.your_expected_wait_time_is_param_second" = "Koha e pritur e pritjes është %@ sekondë";
+"com.kustomer.your_expected_wait_time_is_param_seconds" = "Koha e pritur e pritjes është %@ sekonda";
+"com.kustomer.your_expected_wait_time_is_param_minute" = "Koha e pritur e pritjes është %@ minutë";
+"com.kustomer.your_expected_wait_time_is_param_minutes" = "Koha e pritur e pritjes është %@ minuta";
+"com.kustomer.your_expected_wait_time_is_param_hour" = "Koha e pritur e pritjes është %@ orë";
+"com.kustomer.your_expected_wait_time_is_param_hours" = "Koha e pritur e pritjes është %@ orë";
+"com.kustomer.your_expected_wait_time_is_greater_than_one_day" = "Koha e pritur e pritjes është më e madhe se një ditë";
+"com.kustomer.our_expected_wait_time_is_approximately_param_second" = "Koha aktuale e pritjes është rreth %@ sekondë";
+"com.kustomer.our_expected_wait_time_is_approximately_param_seconds" = "Koha aktuale e pritjes është rreth %@ sekonda";
+"com.kustomer.our_expected_wait_time_is_approximately_param_minute" = "Koha aktuale e pritjes është rreth %@ minutë";
+"com.kustomer.our_expected_wait_time_is_approximately_param_minutes" = "Koha aktuale e pritjes është rreth %@ minuta";
+"com.kustomer.our_expected_wait_time_is_approximately_param_hour" = "Koha aktuale e pritjes është rreth %@ orë";
+"com.kustomer.our_expected_wait_time_is_approximately_param_hours" = "Koha aktuale e pritjes është rreth %@ orë";
+"com.kustomer.our_expected_wait_time_is_approximately_greater_than_one_day" = "Koha aktuale e pritjes është përafërsisht më e madhe se një ditë";
+"com.kustomer.param_minute_ago" = "%@ minutë më parë";
+"com.kustomer.param_minutes_ago" = "%@ minuta më parë";
+"com.kustomer.param_hour_ago" = "%@ orë më parë";
+"com.kustomer.param_hours_ago" = "%@ orë më parë";
+"com.kustomer.param_day_ago" = "%@ ditë më parë";
+"com.kustomer.param_days_ago" = "%@ ditë më parë";
+"com.kustomer.param_week_ago" = "%@ javë më parë";
+"com.kustomer.param_weeks_ago" = "%@ jave me pare";

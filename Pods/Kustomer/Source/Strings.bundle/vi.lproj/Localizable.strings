@@ -1,0 +1,62 @@
+/* 
+  Localizable.strings
+  Kustomer
+
+  Created by Hunain Shahid on 03/05/2018.
+  Copyright © 2018 Kustomer. All rights reserved.
+*/
+
+
+"com.kustomer.Just now" = "Vừa nãy";
+"com.kustomer.Attachment" = "Tập tin đính kèm";
+"com.kustomer.Camera" = "Máy ảnh";
+"com.kustomer.Photo Library" = "Thư viện ảnh";
+"com.kustomer.Cancel" = "Hủy bỏ";
+"com.kustomer.Something went wrong. Please try again." = "Đã xảy ra sự cố. Vui lòng thử lại.";
+"com.kustomer.Try Again" = "Thử lại";
+"com.kustomer.New Conversation" = "Cuộc hội thoại mới";
+"com.kustomer.Don't miss a response! Get notified by email:" = "Đừng bỏ lỡ câu trả lời! Nhận thông báo qua email:";
+"com.kustomer.example@domain.com" = "example@domain.com";
+"com.kustomer.Type a message..." = "Gõ một tin nhắn...";
+"com.kustomer.Loading..." = "Tải...";
+"com.kustomer.CLOSED" = "ĐÃ ĐÓNG CỬA";
+"com.kustomer.Start a New Conversation" = "Bắt đầu cuộc trò chuyện mới";
+"com.kustomer.Thank You! We'll follow up on your request." = "Cảm ơn bạn! Chúng tôi sẽ theo dõi yêu cầu của bạn.";
+"com.kustomer.CHAT HAS ENDED" = "Trò chuyện đã kết thúc";
+"com.kustomer.END CHAT" = "Kết thúc trò chuyện";
+"com.kustomer.Back to chat" = "Quay lại trò chuyện";
+"com.kustomer.Home" = "Nhà";
+"com.kustomer.Please select an item" = "Vui lòng chọn một mục";
+"com.kustomer.Leave a message" = "Để lại lời nhắn";
+"com.kustomer.Someone should be with you momentarily" = "Ai đó nên ở bên bạn một lát";
+"com.kustomer.upfront_volume_control_alternative_method_question" = "Bạn có thể chọn chờ đại lý hiện có tiếp theo hoặc chọn một phương án thay thế phương thức liên hệ để chúng tôi theo dõi bạn.";
+"com.kustomer.volume_control_alternative_method_question" = "Xin lỗi, có vẻ như không ai có sẵn trong thời gian chúng tôi mong đợi. Vui lòng chọn một phương thức liên lạc thay thế để chúng tôi theo dõi với bạn…";
+"com.kustomer.volume_control_email_question" = "Tuyệt vời, email tốt nhất để liên hệ với bạn là gì?";
+"com.kustomer.volume_control_phone_question" = "Tuyệt vời, số điện thoại tốt nhất để liên hệ với bạn là gì?";
+"com.kustomer.volume_control_thankyou_response" = "Cảm ơn bạn. Chúng tôi sẽ sớm liên hệ lại với bạn.";
+"com.kustomer.Submit" = "Gửi đi";
+"com.kustomer.feedback_thankyou" = "Cảm ơn phản hôi của bạn!";
+"com.kustomer.Edit" = "Chỉnh sửa";
+"com.kustomer.chat_with_param" = "Trò chuyện với %@";
+"com.kustomer.your_expected_wait_time_is_param_second" = "Thời gian chờ đợi dự kiến của bạn là %@ giây";
+"com.kustomer.your_expected_wait_time_is_param_seconds" = "Thời gian chờ đợi dự kiến của bạn là %@ giây";
+"com.kustomer.your_expected_wait_time_is_param_minute" = "Thời gian chờ đợi dự kiến của bạn là %@ phút";
+"com.kustomer.your_expected_wait_time_is_param_minutes" = "Thời gian chờ đợi dự kiến của bạn là %@ phút";
+"com.kustomer.your_expected_wait_time_is_param_hour" = "Thời gian chờ đợi dự kiến của bạn là %@ giờ";
+"com.kustomer.your_expected_wait_time_is_param_hours" = "Thời gian chờ đợi dự kiến của bạn là %@ giờ";
+"com.kustomer.your_expected_wait_time_is_greater_than_one_day" = "Thời gian chờ đợi dự kiến của bạn lớn hơn một ngày";
+"com.kustomer.our_expected_wait_time_is_approximately_param_second" = "Thời gian chờ hiện tại của chúng tôi là khoảng %@ giây";
+"com.kustomer.our_expected_wait_time_is_approximately_param_seconds" = "Thời gian chờ hiện tại của chúng tôi là khoảng %@ giây";
+"com.kustomer.our_expected_wait_time_is_approximately_param_minute" = "Thời gian chờ hiện tại của chúng tôi là khoảng %@ phút";
+"com.kustomer.our_expected_wait_time_is_approximately_param_minutes" = "Thời gian chờ hiện tại của chúng tôi là khoảng %@ phút";
+"com.kustomer.our_expected_wait_time_is_approximately_param_hour" = "Thời gian chờ đợi hiện tại của chúng tôi là khoảng %@ giờ";
+"com.kustomer.our_expected_wait_time_is_approximately_param_hours" = "Thời gian chờ đợi hiện tại của chúng tôi là khoảng %@ giờ";
+"com.kustomer.our_expected_wait_time_is_approximately_greater_than_one_day" = "Thời gian chờ đợi hiện tại của chúng tôi là khoảng hơn một ngày";
+"com.kustomer.param_minute_ago" = "%@ phút trước";
+"com.kustomer.param_minutes_ago" = "%@ phút trước";
+"com.kustomer.param_hour_ago" = "%@ giờ trước";
+"com.kustomer.param_hours_ago" = "%@ giờ trước";
+"com.kustomer.param_day_ago" = "%@ ngày trước";
+"com.kustomer.param_days_ago" = "%@ ngày trước";
+"com.kustomer.param_week_ago" = "%@ tuần trước";
+"com.kustomer.param_weeks_ago" = "%@ tuần trước";

@@ -1,0 +1,62 @@
+/* 
+  Localizable.strings
+  Kustomer
+
+  Created by Hunain Shahid on 03/05/2018.
+  Copyright © 2018 Kustomer. All rights reserved.
+*/
+
+
+"com.kustomer.Just now" = "Proprio adesso";
+"com.kustomer.Attachment" = "attaccamento";
+"com.kustomer.Camera" = "telecamera";
+"com.kustomer.Photo Library" = "Libreria fotografica";
+"com.kustomer.Cancel" = "Annulla";
+"com.kustomer.Something went wrong. Please try again." = "Qualcosa è andato storto. Per favore riprova.";
+"com.kustomer.Try Again" = "Riprova";
+"com.kustomer.New Conversation" = "Nuova conversazione";
+"com.kustomer.Don't miss a response! Get notified by email:" = "Non perdere una risposta! Ricevi una notifica via email:";
+"com.kustomer.example@domain.com" = "example@domain.com";
+"com.kustomer.Type a message..." = "Scrivi un messaggio...";
+"com.kustomer.Loading..." = "Caricamento in corso...";
+"com.kustomer.CLOSED" = "CHIUSO";
+"com.kustomer.Start a New Conversation" = "Inizia una nuova conversazione";
+"com.kustomer.Thank You! We'll follow up on your request." = "Grazie! Seguiremo la tua richiesta.";
+"com.kustomer.CHAT HAS ENDED" = "La chat è finita";
+"com.kustomer.END CHAT" = "CHIUDERE LA CHAT";
+"com.kustomer.Back to chat" = "Torna alla chat";
+"com.kustomer.Home" = "Casa";
+"com.kustomer.Please select an item" = "Si prega di selezionare un oggetto";
+"com.kustomer.Leave a message" = "Lasciate un messaggio";
+"com.kustomer.Someone should be with you momentarily" = "Qualcuno dovrebbe essere con te momentaneamente";
+"com.kustomer.upfront_volume_control_alternative_method_question" = "Puoi scegliere di aspettare il prossimo agente disponibile o selezionare un'alternativa metodo di contatto per noi da seguire con voi.";
+"com.kustomer.volume_control_alternative_method_question" = "Spiacente, sembra che nessuno sia diventato disponibile nel tempo che ci aspettavamo. Si prega di selezionare un metodo di contatto alternativo per noi per seguire con voi ...";
+"com.kustomer.volume_control_email_question" = "Ottimo, qual è l'e-mail migliore per raggiungerti?";
+"com.kustomer.volume_control_phone_question" = "Ottimo, qual è il numero di telefono migliore per contattarti?";
+"com.kustomer.volume_control_thankyou_response" = "Grazie. Ti risponderemo a breve.";
+"com.kustomer.Submit" = "Sottoscrivi";
+"com.kustomer.feedback_thankyou" = "Grazie per il tuo feedback!";
+"com.kustomer.Edit" = "modificare";
+"com.kustomer.chat_with_param" = "Chatta con %@";
+"com.kustomer.your_expected_wait_time_is_param_second" = "Il tempo di attesa previsto è %@ secondo";
+"com.kustomer.your_expected_wait_time_is_param_seconds" = "Il tempo di attesa previsto è di %@ secondi";
+"com.kustomer.your_expected_wait_time_is_param_minute" = "Il tempo di attesa previsto è %@ minuto";
+"com.kustomer.your_expected_wait_time_is_param_minutes" = "Il tempo di attesa previsto è di %@ minuti";
+"com.kustomer.your_expected_wait_time_is_param_hour" = "Il tempo di attesa previsto è %@ ora";
+"com.kustomer.your_expected_wait_time_is_param_hours" = "Il tempo di attesa previsto è di %@ ore";
+"com.kustomer.your_expected_wait_time_is_greater_than_one_day" = "Il tempo di attesa previsto è superiore a un giorno";
+"com.kustomer.our_expected_wait_time_is_approximately_param_second" = "Il nostro tempo di attesa attuale è di circa %@ secondo";
+"com.kustomer.our_expected_wait_time_is_approximately_param_seconds" = "Il nostro tempo di attesa attuale è di circa %@ secondi";
+"com.kustomer.our_expected_wait_time_is_approximately_param_minute" = "Il nostro attuale tempo di attesa è di circa %@ minuto";
+"com.kustomer.our_expected_wait_time_is_approximately_param_minutes" = "Il nostro attuale tempo di attesa è di circa %@ minuti";
+"com.kustomer.our_expected_wait_time_is_approximately_param_hour" = "Il nostro attuale tempo di attesa è di circa %@ ora";
+"com.kustomer.our_expected_wait_time_is_approximately_param_hours" = "Il nostro attuale tempo di attesa è di circa %@ ore";
+"com.kustomer.our_expected_wait_time_is_approximately_greater_than_one_day" = "Il nostro tempo di attesa attuale è approssimativamente maggiore di un giorno";
+"com.kustomer.param_minute_ago" = "%@ minuto fa";
+"com.kustomer.param_minutes_ago" = "%@ minuti fa";
+"com.kustomer.param_hour_ago" = "%@ ora fa";
+"com.kustomer.param_hours_ago" = "%@ ore fa";
+"com.kustomer.param_day_ago" = "%@ giorno fa";
+"com.kustomer.param_days_ago" = "%@ giorni fa";
+"com.kustomer.param_week_ago" = "%@ settimana fa";
+"com.kustomer.param_weeks_ago" = "%@ settimane fa";

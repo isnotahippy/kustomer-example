@@ -1,0 +1,62 @@
+/* 
+  Localizable.strings
+  Kustomer
+
+  Created by Hunain Shahid on 03/05/2018.
+  Copyright © 2018 Kustomer. All rights reserved.
+*/
+
+
+"com.kustomer.Just now" = "Net nou";
+"com.kustomer.Attachment" = "Attachment";
+"com.kustomer.Camera" = "kamera";
+"com.kustomer.Photo Library" = "Foto Biblioteek";
+"com.kustomer.Cancel" = "kanselleer";
+"com.kustomer.Something went wrong. Please try again." = "Iets het verkeerd geloop. Probeer asseblief weer.";
+"com.kustomer.Try Again" = "Probeer weer";
+"com.kustomer.New Conversation" = "Nuwe gesprek";
+"com.kustomer.Don't miss a response! Get notified by email:" = "Moenie 'n reaksie mis nie! Kry kennis per e-pos:";
+"com.kustomer.example@domain.com" = "example@domain.com";
+"com.kustomer.Type a message..." = "Tik 'n boodskap ...";
+"com.kustomer.Loading..." = "Laai ...";
+"com.kustomer.CLOSED" = "GESLUIT";
+"com.kustomer.Start a New Conversation" = "Begin 'n nuwe gesprek";
+"com.kustomer.Thank You! We'll follow up on your request." = "Dankie! Ons sal u versoek opvolg.";
+"com.kustomer.CHAT HAS ENDED" = "Klets is beëindig";
+"com.kustomer.END CHAT" = "Einde Chat";
+"com.kustomer.Back to chat" = "Terug na klets";
+"com.kustomer.Home" = "huis";
+"com.kustomer.Please select an item" = "Kies asseblief 'n item";
+"com.kustomer.Leave a message" = "Los 'n boodskap";
+"com.kustomer.Someone should be with you momentarily" = "Iemand moet 'n oomblik by jou wees";
+"com.kustomer.upfront_volume_control_alternative_method_question" = "U kan kies om te wag vir die volgende beskikbare agent of kies 'n alternatief kontak metode vir ons om op te volg.";
+"com.kustomer.volume_control_alternative_method_question" = "Jammer, dit lyk asof niemand beskikbaar geword het in die tyd wat ons verwag het nie. Kies asseblief 'n alternatiewe kontakmetode vir ons om met u op te volg ...";
+"com.kustomer.volume_control_email_question" = "Groot, wat is die beste e-pos om jou te bereik?";
+"com.kustomer.volume_control_phone_question" = "Groot, wat is die beste telefoonnommer om jou te bereik?";
+"com.kustomer.volume_control_thankyou_response" = "Dankie. Ons sal binnekort terugkom.";
+"com.kustomer.Submit" = "Indien";
+"com.kustomer.feedback_thankyou" = "Dankie vir jou terugvoering!";
+"com.kustomer.Edit" = "wysig";
+"com.kustomer.chat_with_param" = "Klets met %@";
+"com.kustomer.your_expected_wait_time_is_param_second" = "Jou verwagte wagtyd is %@ sekonde";
+"com.kustomer.your_expected_wait_time_is_param_seconds" = "Jou verwagte wagtyd is %@ sekondes";
+"com.kustomer.your_expected_wait_time_is_param_minute" = "U verwagte wagtyd is %@ minuut";
+"com.kustomer.your_expected_wait_time_is_param_minutes" = "U verwagte wagtyd is %@ minute";
+"com.kustomer.your_expected_wait_time_is_param_hour" = "U verwagte wagtyd is %@ uur";
+"com.kustomer.your_expected_wait_time_is_param_hours" = "U verwagte wagtyd is %@ uur";
+"com.kustomer.your_expected_wait_time_is_greater_than_one_day" = "Jou verwagte wagtyd is groter as een dag";
+"com.kustomer.our_expected_wait_time_is_approximately_param_second" = "Ons huidige wagtyd is ongeveer %@ sekonde";
+"com.kustomer.our_expected_wait_time_is_approximately_param_seconds" = "Ons huidige wagtyd is ongeveer %@ sekondes";
+"com.kustomer.our_expected_wait_time_is_approximately_param_minute" = "Ons huidige wagtyd is ongeveer %@ minuut";
+"com.kustomer.our_expected_wait_time_is_approximately_param_minutes" = "Ons huidige wagtyd is ongeveer %@ minute";
+"com.kustomer.our_expected_wait_time_is_approximately_param_hour" = "Ons huidige wagtyd is ongeveer %@ uur";
+"com.kustomer.our_expected_wait_time_is_approximately_param_hours" = "Ons huidige wagtyd is ongeveer %@ uur";
+"com.kustomer.our_expected_wait_time_is_approximately_greater_than_one_day" = "Ons huidige wagtyd is ongeveer meer as een dag";
+"com.kustomer.param_minute_ago" = "%@ minuut gelede";
+"com.kustomer.param_minutes_ago" = "%@ minute gelede";
+"com.kustomer.param_hour_ago" = "%@ uur gelede";
+"com.kustomer.param_hours_ago" = "%@ ure gelede";
+"com.kustomer.param_day_ago" = "%@ dag gelede";
+"com.kustomer.param_days_ago" = "%@ dae gelede";
+"com.kustomer.param_week_ago" = "%@ week gelede";
+"com.kustomer.param_weeks_ago" = "%@ weke gelede";

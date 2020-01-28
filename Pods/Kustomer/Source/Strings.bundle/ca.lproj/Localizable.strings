@@ -1,0 +1,62 @@
+/* 
+  Localizable.strings
+  Kustomer
+
+  Created by Hunain Shahid on 03/05/2018.
+  Copyright © 2018 Kustomer. All rights reserved.
+*/
+
+
+"com.kustomer.Just now" = "Ara mateix";
+"com.kustomer.Attachment" = "Adjunt";
+"com.kustomer.Camera" = "Càmera";
+"com.kustomer.Photo Library" = "Fototeca";
+"com.kustomer.Cancel" = "Cancel · lar";
+"com.kustomer.Something went wrong. Please try again." = "Alguna cosa ha anat malament. Siusplau torna-ho a provar.";
+"com.kustomer.Try Again" = "Torna-ho a provar";
+"com.kustomer.New Conversation" = "Nova conversa";
+"com.kustomer.Don't miss a response! Get notified by email:" = "No et perdis cap resposta! Rebeu notificacions per correu electrònic:";
+"com.kustomer.example@domain.com" = "example@domain.com";
+"com.kustomer.Type a message..." = "Escriu un missatge ...";
+"com.kustomer.Loading..." = "S'està carregant ...";
+"com.kustomer.CLOSED" = "TANCAT";
+"com.kustomer.Start a New Conversation" = "Comença una nova conversa";
+"com.kustomer.Thank You! We'll follow up on your request." = "Gràcies! Seguirem la vostra sol·licitud.";
+"com.kustomer.CHAT HAS ENDED" = "S'ha acabat el xat";
+"com.kustomer.END CHAT" = "Finalitza el xat";
+"com.kustomer.Back to chat" = "Tornar al xat";
+"com.kustomer.Home" = "Inici";
+"com.kustomer.Please select an item" = "Seleccioneu un element";
+"com.kustomer.Leave a message" = "Deixa un missatge";
+"com.kustomer.Someone should be with you momentarily" = "Algú hauria d'estar contínuament amb tu";
+"com.kustomer.upfront_volume_control_alternative_method_question" = "Podeu optar per esperar el següent agent disponible o seleccionar una alternativa contacte mètode perquè seguim amb tu.";
+"com.kustomer.volume_control_alternative_method_question" = "Ho sentim, però ningú ha quedat disponible en el moment que esperàvem. Seleccioneu un mètode de contacte alternatiu perquè seguiu amb vosaltres ...";
+"com.kustomer.volume_control_email_question" = "Molt bé, quin és el millor correu electrònic per arribar-hi?";
+"com.kustomer.volume_control_phone_question" = "Molt bé, quin és el millor número de telèfon per arribar-hi?";
+"com.kustomer.volume_control_thankyou_response" = "Gràcies. Us tornarem a contactar en breu.";
+"com.kustomer.Submit" = "Presentar";
+"com.kustomer.feedback_thankyou" = "Gràcies pels seus comentaris!";
+"com.kustomer.Edit" = "editar";
+"com.kustomer.chat_with_param" = "Xateja amb %@";
+"com.kustomer.your_expected_wait_time_is_param_second" = "El temps d’espera esperat és d’%@ segon";
+"com.kustomer.your_expected_wait_time_is_param_seconds" = "El temps d’espera esperat és de %@ segons";
+"com.kustomer.your_expected_wait_time_is_param_minute" = "El temps d'espera esperat és d'%@ minut";
+"com.kustomer.your_expected_wait_time_is_param_minutes" = "El temps d’espera esperat és de %@ minuts";
+"com.kustomer.your_expected_wait_time_is_param_hour" = "El temps d’espera esperat és d’%@ hora";
+"com.kustomer.your_expected_wait_time_is_param_hours" = "El temps d’espera previst és de %@ hores";
+"com.kustomer.your_expected_wait_time_is_greater_than_one_day" = "El temps d’espera esperat és superior a un dia";
+"com.kustomer.our_expected_wait_time_is_approximately_param_second" = "El nostre temps d'espera actual és d'aproximadament %@ segon";
+"com.kustomer.our_expected_wait_time_is_approximately_param_seconds" = "El nostre temps d'espera actual és d'aproximadament %@ segons";
+"com.kustomer.our_expected_wait_time_is_approximately_param_minute" = "El nostre temps d'espera actual és d'aproximadament %@ minut";
+"com.kustomer.our_expected_wait_time_is_approximately_param_minutes" = "El nostre temps d'espera actual és d'aproximadament %@ minuts";
+"com.kustomer.our_expected_wait_time_is_approximately_param_hour" = "El nostre temps d'espera actual és d'aproximadament %@ hora";
+"com.kustomer.our_expected_wait_time_is_approximately_param_hours" = "El nostre temps d'espera actual és d'aproximadament %@ hores";
+"com.kustomer.our_expected_wait_time_is_approximately_greater_than_one_day" = "El nostre temps d'espera actual és aproximadament superior a un dia";
+"com.kustomer.param_minute_ago" = "Fa %@ minut";
+"com.kustomer.param_minutes_ago" = "Fa %@ minuts";
+"com.kustomer.param_hour_ago" = "Fa %@ hora";
+"com.kustomer.param_hours_ago" = "Fa %@ hores";
+"com.kustomer.param_day_ago" = "Fa %@ dia";
+"com.kustomer.param_days_ago" = "fa %@ dies";
+"com.kustomer.param_week_ago" = "Fa %@ setmana";
+"com.kustomer.param_weeks_ago" = "Fa %@ setmanes";

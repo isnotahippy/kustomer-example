@@ -1,0 +1,62 @@
+/* 
+  Localizable.strings
+  Kustomer
+
+  Created by Hunain Shahid on 03/05/2018.
+  Copyright © 2018 Kustomer. All rights reserved.
+*/
+
+
+"com.kustomer.Just now" = "Baru saja";
+"com.kustomer.Attachment" = "Lampiran";
+"com.kustomer.Camera" = "Kamera";
+"com.kustomer.Photo Library" = "Perpustakaan Foto";
+"com.kustomer.Cancel" = "Membatalkan";
+"com.kustomer.Something went wrong. Please try again." = "Ada yang salah. Silakan coba lagi.";
+"com.kustomer.Try Again" = "Coba lagi";
+"com.kustomer.New Conversation" = "Percakapan Baru";
+"com.kustomer.Don't miss a response! Get notified by email:" = "Jangan lewatkan jawaban! Dapatkan pemberitahuan melalui email:";
+"com.kustomer.example@domain.com" = "example@domain.com";
+"com.kustomer.Type a message..." = "Ketik pesan...";
+"com.kustomer.Loading..." = "Pemuatan...";
+"com.kustomer.CLOSED" = "TUTUP";
+"com.kustomer.Start a New Conversation" = "Mulai Percakapan Baru";
+"com.kustomer.Thank You! We'll follow up on your request." = "Terima kasih! Kami akan menindaklanjuti permintaan Anda.";
+"com.kustomer.CHAT HAS ENDED" = "Obrolan telah berakhir";
+"com.kustomer.END CHAT" = "Akhiri Obrolan";
+"com.kustomer.Back to chat" = "Kembali ke obrolan";
+"com.kustomer.Home" = "Rumah";
+"com.kustomer.Please select an item" = "Silakan pilih item";
+"com.kustomer.Leave a message" = "Tinggalkan pesan";
+"com.kustomer.Someone should be with you momentarily" = "Seseorang harus bersamamu sebentar lagi";
+"com.kustomer.upfront_volume_control_alternative_method_question" = "Anda dapat memilih untuk menunggu agen berikutnya yang tersedia atau pilih alternatif metode kontak bagi kami untuk menindaklanjuti dengan Anda.";
+"com.kustomer.volume_control_alternative_method_question" = "Maaf, sepertinya belum ada yang tersedia pada saat kami harapkan. Silakan pilih metode kontak alternatif bagi kami untuk menindaklanjutinya dengan Anda ...";
+"com.kustomer.volume_control_email_question" = "Hebat, apa email terbaik untuk menghubungi Anda di?";
+"com.kustomer.volume_control_phone_question" = "Hebat, berapa nomor telepon terbaik untuk dihubungi?";
+"com.kustomer.volume_control_thankyou_response" = "Terima kasih. Kami akan segera menghubungi Anda.";
+"com.kustomer.Submit" = "Menyerahkan";
+"com.kustomer.feedback_thankyou" = "Terima kasih atas tanggapan Anda!";
+"com.kustomer.Edit" = "mengedit";
+"com.kustomer.chat_with_param" = "Ngobrol dengan %@";
+"com.kustomer.your_expected_wait_time_is_param_second" = "Waktu tunggu Anda yang diharapkan adalah %@ detik";
+"com.kustomer.your_expected_wait_time_is_param_seconds" = "Waktu tunggu yang Anda harapkan adalah %@ detik";
+"com.kustomer.your_expected_wait_time_is_param_minute" = "Waktu tunggu yang Anda harapkan adalah %@ menit";
+"com.kustomer.your_expected_wait_time_is_param_minutes" = "Waktu tunggu yang Anda harapkan adalah %@ menit";
+"com.kustomer.your_expected_wait_time_is_param_hour" = "Waktu tunggu yang Anda harapkan adalah %@ jam";
+"com.kustomer.your_expected_wait_time_is_param_hours" = "Waktu tunggu yang Anda harapkan adalah %@ jam";
+"com.kustomer.your_expected_wait_time_is_greater_than_one_day" = "Waktu tunggu yang Anda harapkan lebih dari satu hari";
+"com.kustomer.our_expected_wait_time_is_approximately_param_second" = "Waktu tunggu kami saat ini adalah sekitar %@ detik";
+"com.kustomer.our_expected_wait_time_is_approximately_param_seconds" = "Waktu tunggu kami saat ini adalah sekitar %@ detik";
+"com.kustomer.our_expected_wait_time_is_approximately_param_minute" = "Waktu tunggu kami saat ini adalah sekitar %@ menit";
+"com.kustomer.our_expected_wait_time_is_approximately_param_minutes" = "Waktu tunggu kami saat ini adalah sekitar %@ menit";
+"com.kustomer.our_expected_wait_time_is_approximately_param_hour" = "Waktu tunggu kami saat ini adalah sekitar %@ jam";
+"com.kustomer.our_expected_wait_time_is_approximately_param_hours" = "Waktu tunggu kami saat ini adalah sekitar %@ jam";
+"com.kustomer.our_expected_wait_time_is_approximately_greater_than_one_day" = "Waktu tunggu kami saat ini kira-kira lebih besar dari satu hari";
+"com.kustomer.param_minute_ago" = "%@ menit yang lalu";
+"com.kustomer.param_minutes_ago" = "%@ menit yang lalu";
+"com.kustomer.param_hour_ago" = "%@ jam yang lalu";
+"com.kustomer.param_hours_ago" = "%@ jam lalu";
+"com.kustomer.param_day_ago" = "%@ hari yang lalu";
+"com.kustomer.param_days_ago" = "%@ hari yang lalu";
+"com.kustomer.param_week_ago" = "%@ minggu yang lalu";
+"com.kustomer.param_weeks_ago" = "%@ minggu yang lalu";

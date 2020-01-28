@@ -1,0 +1,1 @@
+../../../Kustomer/Source/Views/Cells/KUSChatEndedTableViewCell.h

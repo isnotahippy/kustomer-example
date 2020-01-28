@@ -1,0 +1,62 @@
+/* 
+  Localizable.strings
+  Kustomer
+
+  Created by Hunain Shahid on 03/05/2018.
+  Copyright © 2018 Kustomer. All rights reserved.
+*/
+
+
+"com.kustomer.Just now" = "Just now";
+"com.kustomer.Attachment" = "Attachment";
+"com.kustomer.Camera" = "Camera";
+"com.kustomer.Photo Library" = "Photo Library";
+"com.kustomer.Cancel" = "Cancel";
+"com.kustomer.Something went wrong. Please try again." = "Something went wrong. Please try again.";
+"com.kustomer.Try Again" = "Try Again";
+"com.kustomer.New Conversation" = "New Conversation";
+"com.kustomer.Don't miss a response! Get notified by email:" = "Don't miss a response! Get notified by email:";
+"com.kustomer.example@domain.com" = "example@domain.com";
+"com.kustomer.Type a message..." = "Type a message...";
+"com.kustomer.Loading..." = "Loading...";
+"com.kustomer.CLOSED" = "CLOSED";
+"com.kustomer.Start a New Conversation" = "Start a New Conversation";
+"com.kustomer.Thank You! We'll follow up on your request." = "Thank You! We'll follow up on your request.";
+"com.kustomer.CHAT HAS ENDED" = "CHAT HAS ENDED";
+"com.kustomer.END CHAT" = "END CHAT";
+"com.kustomer.Back to chat" = "Back to chat";
+"com.kustomer.Home" = "Home";
+"com.kustomer.Please select an item" = "Please select an item";
+"com.kustomer.Leave a message" = "Leave a message";
+"com.kustomer.Someone should be with you momentarily" = "Someone should be with you momentarily";
+"com.kustomer.upfront_volume_control_alternative_method_question" = "You can choose to wait for the next available agent or select an alternative contact method for us to follow up with you.";
+"com.kustomer.volume_control_alternative_method_question" = "Sorry, it looks like no one has become available in the time we expected. Please select an alternate contact method for us to followup with you…";
+"com.kustomer.volume_control_email_question" = "Great, what's the best email to reach you at?";
+"com.kustomer.volume_control_phone_question" = "Great, what's the best phone number to reach you at?";
+"com.kustomer.volume_control_thankyou_response" = "Thank you. We'll get back to you shortly.";
+"com.kustomer.Submit" = "Submit";
+"com.kustomer.feedback_thankyou" = "Thank you for your feedback!";
+"com.kustomer.Edit" = "Edit";
+"com.kustomer.chat_with_param" = "Chat with %@";
+"com.kustomer.your_expected_wait_time_is_param_second" = "Your expected wait time is %@ second";
+"com.kustomer.your_expected_wait_time_is_param_seconds" = "Your expected wait time is %@ seconds";
+"com.kustomer.your_expected_wait_time_is_param_minute" = "Your expected wait time is %@ minute";
+"com.kustomer.your_expected_wait_time_is_param_minutes" = "Your expected wait time is %@ minutes";
+"com.kustomer.your_expected_wait_time_is_param_hour" = "Your expected wait time is %@ hour";
+"com.kustomer.your_expected_wait_time_is_param_hours" = "Your expected wait time is %@ hours";
+"com.kustomer.your_expected_wait_time_is_greater_than_one_day" = "Your expected wait time is greater than one day";
+"com.kustomer.our_expected_wait_time_is_approximately_param_second" = "Our current wait time is approximately %@ second";
+"com.kustomer.our_expected_wait_time_is_approximately_param_seconds" = "Our current wait time is approximately %@ seconds";
+"com.kustomer.our_expected_wait_time_is_approximately_param_minute" = "Our current wait time is approximately %@ minute";
+"com.kustomer.our_expected_wait_time_is_approximately_param_minutes" = "Our current wait time is approximately %@ minutes";
+"com.kustomer.our_expected_wait_time_is_approximately_param_hour" = "Our current wait time is approximately %@ hour";
+"com.kustomer.our_expected_wait_time_is_approximately_param_hours" = "Our current wait time is approximately %@ hours";
+"com.kustomer.our_expected_wait_time_is_approximately_greater_than_one_day" = "Our current wait time is approximately greater than one day";
+"com.kustomer.param_minute_ago" = "%@ minute ago";
+"com.kustomer.param_minutes_ago" = "%@ minutes ago";
+"com.kustomer.param_hour_ago" = "%@ hour ago";
+"com.kustomer.param_hours_ago" = "%@ hours ago";
+"com.kustomer.param_day_ago" = "%@ day ago";
+"com.kustomer.param_days_ago" = "%@ days ago";
+"com.kustomer.param_week_ago" = "%@ week ago";
+"com.kustomer.param_weeks_ago" = "%@ weeks ago";

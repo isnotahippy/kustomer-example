@@ -1,0 +1,62 @@
+/* 
+  Localizable.strings
+  Kustomer
+
+  Created by Hunain Shahid on 03/05/2018.
+  Copyright © 2018 Kustomer. All rights reserved.
+*/
+
+
+"com.kustomer.Just now" = "방금";
+"com.kustomer.Attachment" = "부착";
+"com.kustomer.Camera" = "카메라";
+"com.kustomer.Photo Library" = "사진 라이브러리";
+"com.kustomer.Cancel" = "취소";
+"com.kustomer.Something went wrong. Please try again." = "뭔가 잘못 됐어. 다시 시도하십시오.";
+"com.kustomer.Try Again" = "다시 시도하십시오.";
+"com.kustomer.New Conversation" = "새 대화";
+"com.kustomer.Don't miss a response! Get notified by email:" = "응답을 놓치지 마세요! 이메일로 알림 받기 :";
+"com.kustomer.example@domain.com" = "example@domain.com";
+"com.kustomer.Type a message..." = "메시지를 입력하십시오 ...";
+"com.kustomer.Loading..." = "로드 중 ...";
+"com.kustomer.CLOSED" = "닫은";
+"com.kustomer.Start a New Conversation" = "새 대화 시작하기";
+"com.kustomer.Thank You! We'll follow up on your request." = "고맙습니다! 귀하의 요청에 대해 후속 조치를 취하겠습니다.";
+"com.kustomer.CHAT HAS ENDED" = "채팅이 종료되었습니다.";
+"com.kustomer.END CHAT" = "채팅 종료";
+"com.kustomer.Back to chat" = "채팅으로 돌아 가기";
+"com.kustomer.Home" = "집";
+"com.kustomer.Please select an item" = "항목을 선택하십시오.";
+"com.kustomer.Leave a message" = "메시지 남기기";
+"com.kustomer.Someone should be with you momentarily" = "누군가 당신과 잠시 같이 있어야합니다.";
+"com.kustomer.upfront_volume_control_alternative_method_question" = "다음으로 사용할 수있는 상담원을 기다리거나 대안을 선택할 수 있습니다. 연락 방법을 알려주십시오.";
+"com.kustomer.volume_control_alternative_method_question" = "죄송합니다. 예상 한 시간에 아무도 사용할 수 없게 된 것 같습니다. 후속 조치를 취할 대체 연락처 방법을 선택하십시오 ...";
+"com.kustomer.volume_control_email_question" = "좋아요, 연락 할 수있는 가장 좋은 이메일은 무엇입니까?";
+"com.kustomer.volume_control_phone_question" = "좋아, 너를 만날 수있는 최고의 전화 번호는 뭐니?";
+"com.kustomer.volume_control_thankyou_response" = "고맙습니다. 곧 다시 연락 드리겠습니다.";
+"com.kustomer.Submit" = "제출";
+"com.kustomer.feedback_thankyou" = "의견을 보내 주셔서 감사합니다!";
+"com.kustomer.Edit" = "편집하다";
+"com.kustomer.chat_with_param" = "%@와 채팅하기";
+"com.kustomer.your_expected_wait_time_is_param_second" = "예상 대기 시간은 %@ 초입니다.";
+"com.kustomer.your_expected_wait_time_is_param_seconds" = "예상 대기 시간은 %@ 초입니다.";
+"com.kustomer.your_expected_wait_time_is_param_minute" = "예상 대기 시간은 %@ 분입니다.";
+"com.kustomer.your_expected_wait_time_is_param_minutes" = "예상 대기 시간은 %@ 분입니다.";
+"com.kustomer.your_expected_wait_time_is_param_hour" = "예상 대기 시간은 %@ 시간입니다.";
+"com.kustomer.your_expected_wait_time_is_param_hours" = "예상 대기 시간은 %@ 시간입니다.";
+"com.kustomer.your_expected_wait_time_is_greater_than_one_day" = "예상 대기 시간이 하루 이상입니다.";
+"com.kustomer.our_expected_wait_time_is_approximately_param_second" = "현재 대기 시간은 약 %@ 초입니다.";
+"com.kustomer.our_expected_wait_time_is_approximately_param_seconds" = "현재 대기 시간은 약 %@ 초입니다.";
+"com.kustomer.our_expected_wait_time_is_approximately_param_minute" = "현재 대기 시간은 약 %@ 분입니다.";
+"com.kustomer.our_expected_wait_time_is_approximately_param_minutes" = "현재 대기 시간은 약 %@ 분입니다.";
+"com.kustomer.our_expected_wait_time_is_approximately_param_hour" = "현재 대기 시간은 약 %@ 시간입니다.";
+"com.kustomer.our_expected_wait_time_is_approximately_param_hours" = "현재 대기 시간은 약 %@ 시간입니다.";
+"com.kustomer.our_expected_wait_time_is_approximately_greater_than_one_day" = "우리의 현재 대기 시간은 대략 하루보다 큽니다.";
+"com.kustomer.param_minute_ago" = "%@ 분 전";
+"com.kustomer.param_minutes_ago" = "%@ 분 전";
+"com.kustomer.param_hour_ago" = "%@ 시간 전";
+"com.kustomer.param_hours_ago" = "%@ 시간 전";
+"com.kustomer.param_day_ago" = "%@ 일 전";
+"com.kustomer.param_days_ago" = "%@ 일 전";
+"com.kustomer.param_week_ago" = "%@ 주 전";
+"com.kustomer.param_weeks_ago" = "%@ 주 전";

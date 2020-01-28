@@ -1,0 +1,62 @@
+/* 
+  Localizable.strings
+  Kustomer
+
+  Created by Hunain Shahid on 03/05/2018.
+  Copyright © 2018 Kustomer. All rights reserved.
+*/
+
+
+"com.kustomer.Just now" = "Pravkar";
+"com.kustomer.Attachment" = "Priponka";
+"com.kustomer.Camera" = "Kamera";
+"com.kustomer.Photo Library" = "Fototeka";
+"com.kustomer.Cancel" = "Prekliči";
+"com.kustomer.Something went wrong. Please try again." = "Nekaj ​​je šlo narobe. Prosim poskusite ponovno.";
+"com.kustomer.Try Again" = "Poskusi ponovno";
+"com.kustomer.New Conversation" = "Novi pogovor";
+"com.kustomer.Don't miss a response! Get notified by email:" = "Ne zamudite odgovora! Pridobite obvestilo po e-pošti:";
+"com.kustomer.example@domain.com" = "example@domain.com";
+"com.kustomer.Type a message..." = "Vnesite sporočilo ...";
+"com.kustomer.Loading..." = "Nalaganje...";
+"com.kustomer.CLOSED" = "ZAPRTO";
+"com.kustomer.Start a New Conversation" = "Začnite nov pogovor";
+"com.kustomer.Thank You! We'll follow up on your request." = "Hvala vam! Nadaljevali bomo na vaši zahtevi.";
+"com.kustomer.CHAT HAS ENDED" = "Klepet je končan";
+"com.kustomer.END CHAT" = "Končaj klepet";
+"com.kustomer.Back to chat" = "Nazaj v klepet";
+"com.kustomer.Home" = "Domov";
+"com.kustomer.Please select an item" = "Izberite element";
+"com.kustomer.Leave a message" = "Pustite sporočilo";
+"com.kustomer.Someone should be with you momentarily" = "Nekdo bi moral biti z vami trenutno";
+"com.kustomer.upfront_volume_control_alternative_method_question" = "Izberete lahko, da počakate na naslednji razpoložljivi agent ali izberete drugo možnost stik z nami, da bomo sledili z vami.";
+"com.kustomer.volume_control_alternative_method_question" = "Oprostite, v času, ko smo pričakovali, se nihče ni pojavil na voljo. Prosimo, izberite način nadomestnega stika, s katerim nas lahko spremljamo ...";
+"com.kustomer.volume_control_email_question" = "Odlično, v čem je najprimernejši e-poštni naslov za vas?";
+"com.kustomer.volume_control_phone_question" = "Odlično, v čem je najboljša telefonska številka, na katero ste prišli?";
+"com.kustomer.volume_control_thankyou_response" = "Hvala vam. Kmalu se bomo vrnili k vam.";
+"com.kustomer.Submit" = "predloži";
+"com.kustomer.feedback_thankyou" = "Hvala za vaše mnenje!";
+"com.kustomer.Edit" = "Uredi";
+"com.kustomer.chat_with_param" = "Klepetajte z %@";
+"com.kustomer.your_expected_wait_time_is_param_second" = "Pričakovani čas čakanja je %@ sekunda";
+"com.kustomer.your_expected_wait_time_is_param_seconds" = "Pričakovani čas čakanja je %@ sekundi";
+"com.kustomer.your_expected_wait_time_is_param_minute" = "Pričakovani čas čakanja je %@ minuta";
+"com.kustomer.your_expected_wait_time_is_param_minutes" = "Pričakovani čas čakanja je %@ minuti";
+"com.kustomer.your_expected_wait_time_is_param_hour" = "Pričakovani čas čakanja je %@ ura";
+"com.kustomer.your_expected_wait_time_is_param_hours" = "Pričakovani čas čakanja je %@ uri";
+"com.kustomer.your_expected_wait_time_is_greater_than_one_day" = "Pričakovani čas čakanja je daljši od enega dne";
+"com.kustomer.our_expected_wait_time_is_approximately_param_second" = "Naš trenutni čas čakanja je približno %@ sekunda";
+"com.kustomer.our_expected_wait_time_is_approximately_param_seconds" = "Naš trenutni čas čakanja je približno %@ sekundi";
+"com.kustomer.our_expected_wait_time_is_approximately_param_minute" = "Naš trenutni čas čakanja je približno %@ minuto";
+"com.kustomer.our_expected_wait_time_is_approximately_param_minutes" = "Naš trenutni čas čakanja je približno %@ minuti";
+"com.kustomer.our_expected_wait_time_is_approximately_param_hour" = "Trenutno čakamo približno %@ uro";
+"com.kustomer.our_expected_wait_time_is_approximately_param_hours" = "Naš trenutni čas čakanja je približno %@ uri";
+"com.kustomer.our_expected_wait_time_is_approximately_greater_than_one_day" = "Naš trenutni čas čakanja je približno več kot en dan";
+"com.kustomer.param_minute_ago" = "Pred %@ minuto";
+"com.kustomer.param_minutes_ago" = "Pred dvema minutama";
+"com.kustomer.param_hour_ago" = "Pred %@ uro";
+"com.kustomer.param_hours_ago" = "pred %@ urama";
+"com.kustomer.param_day_ago" = "Pred enim dnevom";
+"com.kustomer.param_days_ago" = "%@ dni nazaj";
+"com.kustomer.param_week_ago" = "Pred enim tednom";
+"com.kustomer.param_weeks_ago" = "%@ tedna nazaj";

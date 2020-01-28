@@ -1,0 +1,62 @@
+/* 
+  Localizable.strings
+  Kustomer
+
+  Created by Hunain Shahid on 03/05/2018.
+  Copyright © 2018 Kustomer. All rights reserved.
+*/
+
+
+"com.kustomer.Just now" = "Juuri nyt";
+"com.kustomer.Attachment" = "liite";
+"com.kustomer.Camera" = "Kamera";
+"com.kustomer.Photo Library" = "Valokuvakirjasto";
+"com.kustomer.Cancel" = "Peruuttaa";
+"com.kustomer.Something went wrong. Please try again." = "Jotain meni pieleen. Yritä uudelleen.";
+"com.kustomer.Try Again" = "Yritä uudelleen";
+"com.kustomer.New Conversation" = "Uusi keskustelu";
+"com.kustomer.Don't miss a response! Get notified by email:" = "Älä missaa vastausta! Saat ilmoituksen sähköpostilla:";
+"com.kustomer.example@domain.com" = "example@domain.com";
+"com.kustomer.Type a message..." = "Kirjoita viesti ...";
+"com.kustomer.Loading..." = "Ladataan...";
+"com.kustomer.CLOSED" = "SULJETTU";
+"com.kustomer.Start a New Conversation" = "Aloita uusi keskustelu";
+"com.kustomer.Thank You! We'll follow up on your request." = "Kiitos! Seuraamme pyyntöäsi.";
+"com.kustomer.CHAT HAS ENDED" = "Chat on päättynyt";
+"com.kustomer.END CHAT" = "Lopeta keskustelu";
+"com.kustomer.Back to chat" = "Takaisin keskusteluun";
+"com.kustomer.Home" = "Koti";
+"com.kustomer.Please select an item" = "Valitse kohde";
+"com.kustomer.Leave a message" = "Jätä viesti";
+"com.kustomer.Someone should be with you momentarily" = "Joku pitäisi olla kanssasi hetkeksi";
+"com.kustomer.upfront_volume_control_alternative_method_question" = "Voit valita odottavan seuraavan käytettävissä olevan agentin tai valita vaihtoehdon ota yhteys meihin, jotta voimme seurata sinua.";
+"com.kustomer.volume_control_alternative_method_question" = "Valitettavasti keneltäkään ei ole tullut saatavana odotettua aikaa. Valitse vaihtoehtoinen yhteydenottomenetelmä, jotta voimme seurata kanssasi ...";
+"com.kustomer.volume_control_email_question" = "Hyvä, mikä on paras sähköpostiosoite tavoittaa sinut?";
+"com.kustomer.volume_control_phone_question" = "Hyvä, mikä on paras puhelinnumero tavoittaa sinut?";
+"com.kustomer.volume_control_thankyou_response" = "Kiitos. Palataan takaisin sinulle pian.";
+"com.kustomer.Submit" = "Lähetä";
+"com.kustomer.feedback_thankyou" = "Kiitos palautteesta!";
+"com.kustomer.Edit" = "Muokata";
+"com.kustomer.chat_with_param" = "Keskustele %@in kanssa";
+"com.kustomer.your_expected_wait_time_is_param_second" = "Odotettu odotusaika on %@ sekunti";
+"com.kustomer.your_expected_wait_time_is_param_seconds" = "Odotettu odotusaika on %@ sekuntia";
+"com.kustomer.your_expected_wait_time_is_param_minute" = "Odotettu odotusaika on %@ minuutti";
+"com.kustomer.your_expected_wait_time_is_param_minutes" = "Odotettu odotusaika on %@ minuuttia";
+"com.kustomer.your_expected_wait_time_is_param_hour" = "Odotettu odotusaika on %@ tunti";
+"com.kustomer.your_expected_wait_time_is_param_hours" = "Odotettu odotusaika on %@ tuntia";
+"com.kustomer.your_expected_wait_time_is_greater_than_one_day" = "Odotettu odotusaika on suurempi kuin yksi päivä";
+"com.kustomer.our_expected_wait_time_is_approximately_param_second" = "Nykyinen odotusaika on noin %@ sekunti";
+"com.kustomer.our_expected_wait_time_is_approximately_param_seconds" = "Nykyinen odotusaika on noin %@ sekuntia";
+"com.kustomer.our_expected_wait_time_is_approximately_param_minute" = "Nykyinen odotusaika on noin %@ minuutti";
+"com.kustomer.our_expected_wait_time_is_approximately_param_minutes" = "Nykyinen odotusaika on noin %@ minuuttia";
+"com.kustomer.our_expected_wait_time_is_approximately_param_hour" = "Nykyinen odotusaika on noin %@ tunti";
+"com.kustomer.our_expected_wait_time_is_approximately_param_hours" = "Nykyinen odotusaika on noin %@ tuntia";
+"com.kustomer.our_expected_wait_time_is_approximately_greater_than_one_day" = "Nykyinen odotusaika on noin yksi päivä";
+"com.kustomer.param_minute_ago" = "%@ minuutti sitten";
+"com.kustomer.param_minutes_ago" = "%@ minuuttia sitten";
+"com.kustomer.param_hour_ago" = "%@ tunti sitten";
+"com.kustomer.param_hours_ago" = "%@ tuntia sitten";
+"com.kustomer.param_day_ago" = "%@ päivä sitten";
+"com.kustomer.param_days_ago" = "%@ päivää sitten";
+"com.kustomer.param_week_ago" = "%@ viikko sitten";
+"com.kustomer.param_weeks_ago" = "%@ viikkoa sitten";

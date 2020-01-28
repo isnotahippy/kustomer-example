@@ -1,0 +1,62 @@
+/* 
+  Localizable.strings
+  Kustomer
+
+  Created by Hunain Shahid on 03/05/2018.
+  Copyright © 2018 Kustomer. All rights reserved.
+*/
+
+
+"com.kustomer.Just now" = "Şu anda";
+"com.kustomer.Attachment" = "Ek dosya";
+"com.kustomer.Camera" = "Kamera";
+"com.kustomer.Photo Library" = "Fotoğraf kütüphanesi";
+"com.kustomer.Cancel" = "İptal etmek";
+"com.kustomer.Something went wrong. Please try again." = "Bir şeyler yanlış gitti. Lütfen tekrar deneyin.";
+"com.kustomer.Try Again" = "Tekrar deneyin";
+"com.kustomer.New Conversation" = "Yeni Konuşma";
+"com.kustomer.Don't miss a response! Get notified by email:" = "Cevapları kaçırmayın! E-posta ile haberdar olun:";
+"com.kustomer.example@domain.com" = "example@domain.com";
+"com.kustomer.Type a message..." = "Mesaj yaz ...";
+"com.kustomer.Loading..." = "Yükleniyor...";
+"com.kustomer.CLOSED" = "KAPALI";
+"com.kustomer.Start a New Conversation" = "Yeni Bir Konuşma Başlat";
+"com.kustomer.Thank You! We'll follow up on your request." = "Teşekkür ederim! İsteğinizi takip edeceğiz.";
+"com.kustomer.CHAT HAS ENDED" = "Sohbet bitti";
+"com.kustomer.END CHAT" = "SOHBETI SONLANDIR";
+"com.kustomer.Back to chat" = "Sohbete geri dön";
+"com.kustomer.Home" = "Ev";
+"com.kustomer.Please select an item" = "Lütfen bir ürün seçiniz";
+"com.kustomer.Leave a message" = "Mesaj bırakın";
+"com.kustomer.Someone should be with you momentarily" = "Bir an önce seninle birlikte olmalı";
+"com.kustomer.upfront_volume_control_alternative_method_question" = "Bir sonraki müsait aracı beklemeyi veya bir alternatif seçmeyi seçebilirsiniz. Sizinle takip etmek için iletişim yöntemi.";
+"com.kustomer.volume_control_alternative_method_question" = "Üzgünüz, beklediğimiz zamanda kimsenin müsait olmadığı anlaşılıyor. Lütfen sizinle takip edebilmek için alternatif bir iletişim yöntemi seçin…";
+"com.kustomer.volume_control_email_question" = "Harika, size ulaşacak en iyi e-posta nedir?";
+"com.kustomer.volume_control_phone_question" = "Harika, size ulaşacak en iyi telefon numarası nedir?";
+"com.kustomer.volume_control_thankyou_response" = "Teşekkür ederim. Kısa bir süre sonra size geri döneceğiz.";
+"com.kustomer.Submit" = "Gönder";
+"com.kustomer.feedback_thankyou" = "Geribildiriminiz için teşekkür ederiz!";
+"com.kustomer.Edit" = "Düzenle";
+"com.kustomer.chat_with_param" = "%@ ile sohbet et";
+"com.kustomer.your_expected_wait_time_is_param_second" = "Beklediğiniz bekleme süresi %@ saniye";
+"com.kustomer.your_expected_wait_time_is_param_seconds" = "Beklediğiniz bekleme süresi %@ saniye";
+"com.kustomer.your_expected_wait_time_is_param_minute" = "Beklediğiniz bekleme süresi %@ dakika";
+"com.kustomer.your_expected_wait_time_is_param_minutes" = "Beklediğiniz bekleme süresi %@ dakika";
+"com.kustomer.your_expected_wait_time_is_param_hour" = "Beklediğiniz bekleme süresi %@ saat";
+"com.kustomer.your_expected_wait_time_is_param_hours" = "Beklediğiniz bekleme süresi %@ saat";
+"com.kustomer.your_expected_wait_time_is_greater_than_one_day" = "Beklediğiniz bekleme süresi bir günden fazla";
+"com.kustomer.our_expected_wait_time_is_approximately_param_second" = "Şu anki bekleme süremiz yaklaşık %@ saniye";
+"com.kustomer.our_expected_wait_time_is_approximately_param_seconds" = "Geçerli bekleme süremiz yaklaşık %@ saniyedir";
+"com.kustomer.our_expected_wait_time_is_approximately_param_minute" = "Mevcut bekleme süremiz yaklaşık %@ dakika";
+"com.kustomer.our_expected_wait_time_is_approximately_param_minutes" = "Mevcut bekleme süremiz yaklaşık %@ dakika";
+"com.kustomer.our_expected_wait_time_is_approximately_param_hour" = "Mevcut bekleme süremiz yaklaşık %@ saattir";
+"com.kustomer.our_expected_wait_time_is_approximately_param_hours" = "Şu anki bekleme süremiz yaklaşık %@ saat";
+"com.kustomer.our_expected_wait_time_is_approximately_greater_than_one_day" = "Şu andaki bekleme süremiz yaklaşık bir günden fazla";
+"com.kustomer.param_minute_ago" = "%@ dakika önce";
+"com.kustomer.param_minutes_ago" = "%@ dakika önce";
+"com.kustomer.param_hour_ago" = "%@ saat önce";
+"com.kustomer.param_hours_ago" = "%@ saat önce";
+"com.kustomer.param_day_ago" = "%@ gün önce";
+"com.kustomer.param_days_ago" = "%@ gün önce";
+"com.kustomer.param_week_ago" = "%@ hafta önce";
+"com.kustomer.param_weeks_ago" = "%@ hafta önce";
